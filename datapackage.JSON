@@ -10,7 +10,6 @@
       "format": "csv",
       "mediatype": "text/csv",
       "schema": {
-        "schemaId": 0,
         "fields": [
           {
             "name": "GoalID",
