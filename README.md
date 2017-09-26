@@ -1,3 +1,3 @@
-# SDGsDataPackages
+# SDGsDataPackage
 
 README
