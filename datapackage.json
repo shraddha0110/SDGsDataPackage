@@ -9,12 +9,12 @@
       "path": "data.csv",
       "format": "csv",
       "mediatype": "text/csv",
+      "description": "SDGsDataPackage  --- Goal :  Goal 2 seeks to end hunger and all forms of malnutrition and to achieve sustainable food production by 2030. It is premised on the idea that everyone should have access to sufficient nutritious food, which will require widespread promotion of sustainable agriculture, a doubling of agricultural productivity, increased investments and properly functioning food markets."
       "schema": {
         "fields": [
           {
             "name": "Goal",
-            "type": "string",
-            "description": "SDGsDataPackage  --- Goal :  Goal 2 seeks to end hunger and all forms of malnutrition and to achieve sustainable food production by 2030. It is premised on the idea that everyone should have access to sufficient nutritious food, which will require widespread promotion of sustainable agriculture, a doubling of agricultural productivity, increased investments and properly functioning food markets."
+            "type": "string"
           },
           {
             "name": "Target",
