@@ -1,0 +1,159 @@
+ISOalpha2,ISOalpha3,M49,Name,Type
+AF,AFG,4,Afghanistan,Country
+AL,ALB,8,Albania,Country
+DZ,DZA,12,Algeria,Country
+AO,AGO,24,Angola,Country
+AR,ARG,32,Argentina,Country
+AM,ARM,51,Armenia,Country
+AZ,AZE,31,Azerbaijan,Country
+BS,BHS,44,Bahamas,Country
+BH,BHR,48,Bahrain,Country
+BD,BGD,50,Bangladesh,Country
+BB,BRB,52,Barbados,Country
+BY,BLR,112,Belarus,Country
+BZ,BLZ,84,Belize,Country
+BJ,BEN,204,Benin,Country
+BT,BTN,64,Bhutan,Country
+BO,BOL,68,Bolivia,Country
+BA,BIH,70,Bosnia and Herzegovina,Country
+BW,BWA,72,Botswana,Country
+BR,BRA,76,Brazil,Country
+BN,BRN,96,Brunei Darussalam,Country
+BF,BFA,854,Burkina Faso,Country
+BI,BDI,108,Burundi,Country
+KH,KHM,116,Cambodia,Country
+CM,CMR,120,Cameroon,Country
+CV,CPV,132,Cape Verde,Country
+CF,CAF,140,Central African Republic,Country
+TD,TCD,148,Chad,Country
+CL,CHL,152,Chile,Country
+CN,CHN,156,China,Country
+HK,HKG,344,"Hong Kong, SAR China",Country
+MO,MAC,446,"Macao, SAR China",Country
+CO,COL,170,Colombia,Country
+KM,COM,174,Comoros,Country
+CG,COG,178,Congo (Brazzaville),Country
+CD,COD,180,"Congo, (Kinshasa)",Country
+CR,CRI,188,Costa Rica,Country
+CI,CIV,384,Côte d'Ivoire,Country
+CU,CUB,192,Cuba,Country
+DO,DOM,214,Dominican Republic,Country
+EC,ECU,218,Ecuador,Country
+EG,EGY,818,Egypt,Country
+SV,SLV,222,El Salvador,Country
+GQ,GNQ,226,Equatorial Guinea,Country
+ER,ERI,232,Eritrea,Country
+ET,ETH,231,Ethiopia,Country
+FJ,FJI,242,Fiji,Country
+GA,GAB,266,Gabon,Country
+GM,GMB,270,Gambia,Country
+GE,GEO,268,Georgia,Country
+GH,GHA,288,Ghana,Country
+GT,GTM,320,Guatemala,Country
+GN,GIN,324,Guinea,Country
+GW,GNB,624,Guinea-Bissau,Country
+GY,GUY,328,Guyana,Country
+HT,HTI,332,Haiti,Country
+HN,HND,340,Honduras,Country
+IN,IND,356,India,Country
+ID,IDN,360,Indonesia,Country
+IR,IRN,364,"Iran, Islamic Republic of",Country
+IQ,IRQ,368,Iraq,Country
+JM,JAM,388,Jamaica,Country
+JO,JOR,400,Jordan,Country
+KZ,KAZ,398,Kazakhstan,Country
+KE,KEN,404,Kenya,Country
+KP,PRK,408,Korea (North),Country
+KR,KOR,410,Korea (South),Country
+KW,KWT,414,Kuwait,Country
+KG,KGZ,417,Kyrgyzstan,Country
+LA,LAO,418,Lao PDR,Country
+LB,LBN,422,Lebanon,Country
+LS,LSO,426,Lesotho,Country
+LR,LBR,430,Liberia,Country
+LY,LBY,434,Libya,Country
+MK,MKD,807,"Macedonia, Republic of",Country
+MG,MDG,450,Madagascar,Country
+MW,MWI,454,Malawi,Country
+MY,MYS,458,Malaysia,Country
+MV,MDV,462,Maldives,Country
+ML,MLI,466,Mali,Country
+MR,MRT,478,Mauritania,Country
+MU,MUS,480,Mauritius,Country
+MX,MEX,484,Mexico,Country
+MD,MDA,498,Moldova,Country
+MN,MNG,496,Mongolia,Country
+ME,MNE,499,Montenegro,Country
+MA,MAR,504,Morocco,Country
+MZ,MOZ,508,Mozambique,Country
+MM,MMR,104,Myanmar,Country
+NA,NAM,516,Namibia,Country
+NP,NPL,524,Nepal,Country
+NI,NIC,558,Nicaragua,Country
+NE,NER,562,Niger,Country
+NG,NGA,566,Nigeria,Country
+OM,OMN,512,Oman,Country
+PK,PAK,586,Pakistan,Country
+PS,PSE,275,Palestinian Territory,Country
+PA,PAN,591,Panama,Country
+PG,PNG,598,Papua New Guinea,Country
+PY,PRY,600,Paraguay,Country
+PE,PER,604,Peru,Country
+PH,PHL,608,Philippines,Country
+PR,PRI,630,Puerto Rico,Country
+QA,QAT,634,Qatar,Country
+RU,RUS,643,Russian Federation,Country
+RW,RWA,646,Rwanda,Country
+SA,SAU,682,Saudi Arabia,Country
+SN,SEN,686,Senegal,Country
+RS,SRB,688,Serbia,Country
+SL,SLE,694,Sierra Leone,Country
+SG,SGP,702,Singapore,Country
+SB,SLB,90,Solomon Islands,Country
+SO,SOM,706,Somalia,Country
+ZA,ZAF,710,South Africa,Country
+LK,LKA,144,Sri Lanka,Country
+SD,SDN,736,Sudan,Country
+SR,SUR,740,Suriname,Country
+SZ,SWZ,748,Swaziland,Country
+SY,SYR,760,Syrian Arab Republic (Syria),Country
+TJ,TJK,762,Tajikistan,Country
+TZ,TZA,834,"Tanzania, United Republic of",Country
+TH,THA,764,Thailand,Country
+TL,TLS,626,Timor-Leste,Country
+TG,TGO,768,Togo,Country
+TT,TTO,780,Trinidad and Tobago,Country
+TN,TUN,788,Tunisia,Country
+TR,TUR,792,Turkey,Country
+TM,TKM,795,Turkmenistan,Country
+UG,UGA,800,Uganda,Country
+UA,UKR,804,Ukraine,Country
+AE,ARE,784,United Arab Emirates,Country
+UY,URY,858,Uruguay,Country
+UZ,UZB,860,Uzbekistan,Country
+VE,VEN,862,Venezuela (Bolivarian Republic),Country
+VN,VNM,704,Viet Nam,Country
+YE,YEM,887,Yemen,Country
+ZM,ZMB,894,Zambia,Country
+ZW,ZWE,716,Zimbabwe,Country
+,M49_AFR_EA,14,Eastern Africa,Region
+,M49_AFR_MA,17,Middle Africa,Region
+,M49_AFR_SA,18,Southern Africa,Region
+,M49_AFR_WA,11,Western Africa,Region
+,MDG_LAC_CAR,29,Caribbean,Region
+,M49_LAC_CA,13,Central America,Region
+,M49_LAC_SA,5,South America,Region
+,M49_AFR_NA,15,Northern Africa,Region
+,SDG_AFR_SSA,202,Sub-Saharan Africa,Region
+,MDG_LAC,419,Latin America and the Caribbean,Region
+,MDG_WORLD,1,World,Region
+,M49_ASI_CA,143,Central Asia,Region
+,M49_ASI_EA,30,Eastern Asia,Region
+,MDG_SEAS,35,South-eastern Asia,Region
+,MDG_SAS,34,Southern Asia,Region
+,M49_ASI_WA,145,Western Asia,Region
+,M49_EUR_EE,151,Eastern Europe,Region
+,M49_EUR_SE,39,Southern Europe,Region
+,M49_OCE_MEL,54,Melanesia,Region
+,M49_EUR,150,Europe,Region
+,M49_OCE,9,Oceania,Region

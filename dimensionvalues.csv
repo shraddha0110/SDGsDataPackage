@@ -1,0 +1,12 @@
+Dimension,Code,Description
+Age,15-24,15 to 24 years old
+Freq,A,Annual
+Location,T,Total (national level)
+Nature,M,Modeled
+Sex,Female,Female
+Units,Percentage,Percentage
+Scenario,P,P
+Sex,Male,Male
+Age,25+,25 years old and over
+Age,15+,15 years old and over
+Sex,Total,Total
