@@ -1,0 +1,16 @@
+Dimension,Value,Description
+Age,15+,15 years old and over
+Age,T,All age ranges or no breakdown by age
+Freq,A,Annual
+Location,T,Total (national level)
+Location,U,Urban
+Location,R,Rural
+Nature,E,Estimated
+Scenario,P,P
+Scenario,UB,Upper bound
+Scenario,LB,Lower bound
+Sex,Total,Total
+Sex,Female,Female
+Sex,Male,Male
+Units,Percentage,Percentage
+Units,#,Number
