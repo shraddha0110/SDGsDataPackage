@@ -2,22 +2,20 @@ M49,Name,Type
 4,Afghanistan,Country
 8,Albania,Country
 12,Algeria,Country
+20,Andorra,Country
 24,Angola,Country
-28,Antigua and Barbuda,Country
 32,Argentina,Country
 51,Armenia,Country
 36,Australia,Country
 40,Austria,Country
 31,Azerbaijan,Country
-44,Bahamas,Country
-48,Bahrain,Country
 50,Bangladesh,Country
 52,Barbados,Country
 112,Belarus,Country
 56,Belgium,Country
 84,Belize,Country
 204,Benin,Country
-64,Bhutan,Country
+60,Bermuda,Country
 68,Bolivia,Country
 70,Bosnia and Herzegovina,Country
 72,Botswana,Country
@@ -25,7 +23,6 @@ M49,Name,Type
 96,Brunei Darussalam,Country
 100,Bulgaria,Country
 854,Burkina Faso,Country
-108,Burundi,Country
 116,Cambodia,Country
 120,Cameroon,Country
 124,Canada,Country
@@ -35,9 +32,7 @@ M49,Name,Type
 152,Chile,Country
 156,China,Country
 170,Colombia,Country
-174,Comoros,Country
 178,Congo (Brazzaville),Country
-180,"Congo, (Kinshasa)",Country
 188,Costa Rica,Country
 384,Côte d'Ivoire,Country
 191,Croatia,Country
@@ -50,10 +45,9 @@ M49,Name,Type
 218,Ecuador,Country
 818,Egypt,Country
 222,El Salvador,Country
-226,Equatorial Guinea,Country
-232,Eritrea,Country
 233,Estonia,Country
 231,Ethiopia,Country
+234,Faroe Islands,Country
 242,Fiji,Country
 246,Finland,Country
 250,France,Country
@@ -62,13 +56,15 @@ M49,Name,Type
 268,Georgia,Country
 276,Germany,Country
 288,Ghana,Country
+292,Gibraltar,Country
 300,Greece,Country
-308,Grenada,Country
+304,Greenland,Country
 320,Guatemala,Country
 324,Guinea,Country
 624,Guinea-Bissau,Country
 328,Guyana,Country
 332,Haiti,Country
+336,Holy See (Vatican City State),Country
 340,Honduras,Country
 348,Hungary,Country
 352,Iceland,Country
@@ -94,7 +90,7 @@ M49,Name,Type
 422,Lebanon,Country
 426,Lesotho,Country
 430,Liberia,Country
-434,Libya,Country
+438,Liechtenstein,Country
 440,Lithuania,Country
 442,Luxembourg,Country
 807,"Macedonia, Republic of",Country
@@ -107,8 +103,8 @@ M49,Name,Type
 478,Mauritania,Country
 480,Mauritius,Country
 484,Mexico,Country
-583,"Micronesia, Federated States of",Country
 498,Moldova,Country
+492,Monaco,Country
 496,Mongolia,Country
 499,Montenegro,Country
 504,Morocco,Country
@@ -125,46 +121,38 @@ M49,Name,Type
 512,Oman,Country
 586,Pakistan,Country
 591,Panama,Country
-598,Papua New Guinea,Country
 600,Paraguay,Country
 604,Peru,Country
 608,Philippines,Country
 616,Poland,Country
 620,Portugal,Country
-634,Qatar,Country
 642,Romania,Country
 643,Russian Federation,Country
 646,Rwanda,Country
-662,Saint Lucia,Country
+666,Saint Pierre and Miquelon,Country
 670,Saint Vincent and Grenadines,Country
 882,Samoa,Country
+674,San Marino,Country
 678,Sao Tome and Principe,Country
 682,Saudi Arabia,Country
 686,Senegal,Country
 688,Serbia,Country
-690,Seychelles,Country
 694,Sierra Leone,Country
-702,Singapore,Country
 703,Slovakia,Country
 705,Slovenia,Country
 90,Solomon Islands,Country
-706,Somalia,Country
 710,South Africa,Country
-728,South Sudan,Country
 724,Spain,Country
 144,Sri Lanka,Country
-736,Sudan,Country
 740,Suriname,Country
 748,Swaziland,Country
 752,Sweden,Country
 756,Switzerland,Country
-760,Syrian Arab Republic (Syria),Country
 762,Tajikistan,Country
 834,"Tanzania, United Republic of",Country
 764,Thailand,Country
 626,Timor-Leste,Country
 768,Togo,Country
-776,Tonga,Country
 780,Trinidad and Tobago,Country
 788,Tunisia,Country
 792,Turkey,Country
@@ -182,16 +170,30 @@ M49,Name,Type
 887,Yemen,Country
 894,Zambia,Country
 716,Zimbabwe,Country
+2,Africa,Region
+19,Americas,Region
+142,Asia,Region
 53,Australia and New Zealand,Region
+29,Caribbean,Region
+13,Central America,Region
 143,Central Asia,Region
+14,Eastern Africa,Region
 30,Eastern Asia,Region
+151,Eastern Europe,Region
 150,Europe,Region
 419,Latin America and the Caribbean,Region
+17,Middle Africa,Region
 15,Northern Africa,Region
 21,Northern America,Region
+154,Northern Europe,Region
 9,Oceania,Region
+5,South America,Region
 35,South-eastern Asia,Region
+18,Southern Africa,Region
 34,Southern Asia,Region
+39,Southern Europe,Region
 202,Sub-Saharan Africa,Region
+11,Western Africa,Region
 145,Western Asia,Region
+155,Western Europe,Region
 1,World,Region
