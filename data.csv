@@ -1,0 +1,3 @@
+Goal,Target,Indicator,SeriesCode,Country,Time,Val,ValType,Age,Freq,Location,Nature,Scenario,Sex,Units
+17,17.19,17.19.2,SG_REG_DETH75N,Aland Islands,0,1,Float,T,A,T,C,P,Total,#
+17,17.19,17.19.2,SG_REG_BRTH90N,Aland Islands,0,1,Float,T,A,T,NA,P,Total,#

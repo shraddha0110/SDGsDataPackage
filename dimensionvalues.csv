@@ -1,0 +1,9 @@
+Dimension,Value,Description
+Age,T,All age ranges or no breakdown by age
+Freq,A,Annual
+Location,T,Total (national level)
+Nature,NA,Not Available
+Nature,C,Country Data
+Scenario,P,P
+Sex,Total,Total
+Units,#,Number
