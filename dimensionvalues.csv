@@ -1,11 +1,15 @@
 Dimension,Value,Description
+Age,<1m,under 1 month old
+Age,<1,under 1 year old
 Age,<5,under 5 years old
+Age,<15,under 15 years old
 Age,T,All age ranges or no breakdown by age
+Age,15-19,15 to 19 years old
+Age,15-49,15 to 49 years old
 Age,15+,15 years old and over
+Age,30-70,30 to 70 years old
 Freq,A,Annual
-Location,R,Rural
 Location,T,Total (national level)
-Location,U,Urban
 Nature,C,Country Data
 Nature,CA,Country Adjusted
 Nature,E,Estimated
@@ -19,6 +23,12 @@ Sex,Male,Male
 Sex,Total,Total
 Units,USD,Constant USD
 Units,index,Index
-Units,NA,Not applicable
+Units,L,Litres pure alcohol
 Units,#,Number
+Units,per 1000 births,"Per 1,000 live births"
+Units,per 1000 pop,"Per 1,000 population"
+Units,per 1000 uninfec.pop,"Per 1,000 uninfected population"
+Units,per 100000 birth,"Per 100,000 live births"
+Units,per 100000 pop,"Per 100,000 population"
 Units,Percentage,Percentage
+Units,Prob,Probability
