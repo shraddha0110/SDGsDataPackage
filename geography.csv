@@ -2,7 +2,6 @@ M49,Name,Type
 4,Afghanistan,Country
 8,Albania,Country
 12,Algeria,Country
-16,American Samoa,Country
 20,Andorra,Country
 24,Angola,Country
 660,Anguilla,Country
@@ -36,7 +35,6 @@ M49,Name,Type
 120,Cameroon,Country
 124,Canada,Country
 132,Cape Verde,Country
-136,Cayman Islands,Country
 140,Central African Republic,Country
 148,Chad,Country
 152,Chile,Country
@@ -45,7 +43,6 @@ M49,Name,Type
 174,Comoros,Country
 178,Congo (Brazzaville),Country
 180,"Congo, (Kinshasa)",Country
-184,Cook Islands,Country
 188,Costa Rica,Country
 384,Côte d'Ivoire,Country
 191,Croatia,Country
@@ -63,28 +60,21 @@ M49,Name,Type
 232,Eritrea,Country
 233,Estonia,Country
 231,Ethiopia,Country
-234,Faroe Islands,Country
 242,Fiji,Country
 246,Finland,Country
 250,France,Country
-254,French Guiana,Country
-258,French Polynesia,Country
 266,Gabon,Country
 270,Gambia,Country
 268,Georgia,Country
 276,Germany,Country
 288,Ghana,Country
 300,Greece,Country
-304,Greenland,Country
 308,Grenada,Country
-312,Guadeloupe,Country
-316,Guam,Country
 320,Guatemala,Country
 324,Guinea,Country
 624,Guinea-Bissau,Country
 328,Guyana,Country
 332,Haiti,Country
-336,Holy See (Vatican City State),Country
 340,Honduras,Country
 344,"Hong Kong, SAR China",Country
 348,Hungary,Country
@@ -94,6 +84,7 @@ M49,Name,Type
 364,"Iran, Islamic Republic of",Country
 368,Iraq,Country
 372,Ireland,Country
+833,Isle of Man,Country
 376,Israel,Country
 380,Italy,Country
 388,Jamaica,Country
@@ -124,17 +115,13 @@ M49,Name,Type
 466,Mali,Country
 470,Malta,Country
 584,Marshall Islands,Country
-474,Martinique,Country
 478,Mauritania,Country
 480,Mauritius,Country
-175,Mayotte,Country
 484,Mexico,Country
 583,"Micronesia, Federated States of",Country
 498,Moldova,Country
-492,Monaco,Country
 496,Mongolia,Country
 499,Montenegro,Country
-500,Montserrat,Country
 504,Morocco,Country
 508,Mozambique,Country
 104,Myanmar,Country
@@ -147,8 +134,6 @@ M49,Name,Type
 558,Nicaragua,Country
 562,Niger,Country
 566,Nigeria,Country
-570,Niue,Country
-580,Northern Mariana Islands,Country
 578,Norway,Country
 512,Oman,Country
 586,Pakistan,Country
@@ -163,7 +148,6 @@ M49,Name,Type
 620,Portugal,Country
 630,Puerto Rico,Country
 634,Qatar,Country
-638,Réunion,Country
 642,Romania,Country
 643,Russian Federation,Country
 646,Rwanda,Country
@@ -198,13 +182,11 @@ M49,Name,Type
 764,Thailand,Country
 626,Timor-Leste,Country
 768,Togo,Country
-772,Tokelau,Country
 776,Tonga,Country
 780,Trinidad and Tobago,Country
 788,Tunisia,Country
 792,Turkey,Country
 795,Turkmenistan,Country
-796,Turks and Caicos Islands,Country
 798,Tuvalu,Country
 800,Uganda,Country
 804,Ukraine,Country
@@ -216,13 +198,9 @@ M49,Name,Type
 548,Vanuatu,Country
 862,Venezuela (Bolivarian Republic),Country
 704,Viet Nam,Country
-850,"Virgin Islands, US",Country
-876,Wallis and Futuna Islands,Country
-732,Western Sahara,Country
 887,Yemen,Country
 894,Zambia,Country
 716,Zimbabwe,Country
-2,Africa,Region
 142,Asia,Region
 53,Australia and New Zealand,Region
 29,Caribbean,Region
@@ -234,7 +212,6 @@ M49,Name,Type
 150,Europe,Region
 419,Latin America and the Caribbean,Region
 54,Melanesia,Region
-57,Micronesia,Region
 17,Middle Africa,Region
 15,Northern Africa,Region
 21,Northern America,Region
