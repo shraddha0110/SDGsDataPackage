@@ -1,9 +1,24 @@
 Dimension,Value,Description
+Age,<5,under 5 years old
 Age,T,All age ranges or no breakdown by age
+Age,15+,15 years old and over
 Freq,A,Annual
+Location,R,Rural
 Location,T,Total (national level)
-Nature,NA,Not Available
+Location,U,Urban
 Nature,C,Country Data
+Nature,CA,Country Adjusted
+Nature,E,Estimated
+Nature,M,Modeled
+Nature,NA,Not Available
 Scenario,P,P
+Scenario,LB,Lower bound
+Scenario,UB,Upper bound
+Sex,Female,Female
+Sex,Male,Male
 Sex,Total,Total
+Units,USD,Constant USD
+Units,index,Index
+Units,NA,Not applicable
 Units,#,Number
+Units,Percentage,Percentage
