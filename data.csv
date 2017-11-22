@@ -1,13 +1,2276 @@
 Goal,Target,Indicator,SeriesCode,Country,Time,Val,ValType,Age,Freq,Location,Nature,Scenario,Sex,Units
-17,17.10,17.10.1,TM_TAX_OILWMPS,Sub-Saharan Africa,0,0.7569065687230400,Float,T,A,T,C,P,Total,Percentage
-17,17.10,17.10.1,TM_TAX_OILWMPS,Western Asia,0,0.0002232427555881,Float,T,A,T,C,P,Total,Percentage
-17,17.10,17.10.1,TM_TAX_OILWMPS,Eastern Asia,0,1.0091719705145399,Float,T,A,T,C,P,Total,Percentage
-17,17.10,17.10.1,TM_TAX_OILWMPS,Eastern Asia,0,0.823197165469900,Float,T,A,T,C,P,Total,Percentage
-17,17.10,17.10.1,TM_TAX_OILWMPS,Western Asia,0,0.001579628670051,Float,T,A,T,C,P,Total,Percentage
-17,17.10,17.10.1,TM_TAX_OILWMPS,Sub-Saharan Africa,0,0.880677394725271,Float,T,A,T,C,P,Total,Percentage
-17,17.10,17.10.1,TM_TAX_OILWMPS,Northern Africa,0,0.194317145123200,Float,T,A,T,C,P,Total,Percentage
-17,17.10,17.10.1,TM_TAX_OILWMPS,Eastern Asia,0,2.358380323520380,Float,T,A,T,C,P,Total,Percentage
-17,17.10,17.10.1,TM_TAX_OILWMPS,Western Asia,0,1.355348480488000,Float,T,A,T,C,P,Total,Percentage
-17,17.10,17.10.1,TM_TAX_OILWMPS,Sub-Saharan Africa,0,0.609061680759217,Float,T,A,T,C,P,Total,Percentage
-17,17.10,17.10.1,TM_TAX_OILWMPS,Northern Africa,0,4.053321145790350,Float,T,A,T,C,P,Total,Percentage
-17,17.10,17.10.1,TM_TAX_OILWMPS,Northern Africa,0,1.0628896891684199,Float,T,A,T,C,P,Total,Percentage
+3,3.4,3.4.1,SH_DTH_CRESPD,India,0,161.946,Float,30-70,A,T,CA,P,Female,#
+3,3.4,3.4.1,SH_DTH_CRESPD,India,0,216.344,Float,30-70,A,T,CA,P,Male,#
+3,3.4,3.4.1,SH_DTH_CRESPD,India,0,378.289,Float,30-70,A,T,CA,P,Total,#
+3,3.4,3.4.1,SH_DTH_CRESPD,India,0,155.794,Float,30-70,A,T,CA,P,Female,#
+3,3.4,3.4.1,SH_DTH_CRESPD,India,0,203.276,Float,30-70,A,T,CA,P,Male,#
+3,3.4,3.4.1,SH_DTH_CRESPD,India,0,359.07,Float,30-70,A,T,CA,P,Total,#
+3,3.4,3.4.1,SH_DTH_CRESPD,India,0,383.968,Float,30-70,A,T,CA,P,Total,#
+3,3.4,3.4.1,SH_DTH_CRESPD,India,0,219.215,Float,30-70,A,T,CA,P,Male,#
+3,3.4,3.4.1,SH_DTH_CRESPD,India,0,164.753,Float,30-70,A,T,CA,P,Female,#
+3,3.4,3.4.1,SH_DTH_CRESPD,India,0,187.294,Float,30-70,A,T,CA,P,Female,#
+3,3.4,3.4.1,SH_DTH_CRESPD,India,0,246.986,Float,30-70,A,T,CA,P,Male,#
+3,3.4,3.4.1,SH_DTH_CRESPD,India,0,434.28,Float,30-70,A,T,CA,P,Total,#
+15,15.2,15.2.1,AG_LND_FRSTCERT,India,0,452.734,Float,T,A,T,NA,P,Total,Percentage
+15,15.2,15.2.1,AG_LND_FRSTCERT,India,0,0.68,Float,T,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,India,0,44.529409,Float,T,A,T,NA,P,Total,Percentage
+4,4.5,4.5.1,SE_PRM_GPITCH,India,0,1.01857,Float,T,A,T,C,P,Total,Ration
+8,8.2,8.2.1,SL_EMP_PCAP,India,0,4.9,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,India,0,5.92,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,India,0,4.5,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,India,0,6.87,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,India,0,8.95,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,India,0,5.13,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,India,0,1.96,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,India,0,5.59,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,India,0,8.88,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,India,0,4.16,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,India,0,1.36,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,India,0,5.48,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,India,0,1.49,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,India,0,8.01,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,India,0,5.59,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,India,0,9.67,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,India,0,4.45,Float,T,A,T,M,P,Total,Percentage
+9,9.4,9.4.1,EN_ATM_CO2MVA,India,0,1.29,Float,T,A,T,M,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2MVA,India,0,1.34,Float,T,A,T,M,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2MVA,India,0,1.47,Float,T,A,T,M,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2MVA,India,0,1.47,Float,T,A,T,M,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2MVA,India,0,1.47,Float,T,A,T,M,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2MVA,India,0,1.25,Float,T,A,T,M,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2MVA,India,0,1.28,Float,T,A,T,M,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2MVA,India,0,1.47,Float,T,A,T,M,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2MVA,India,0,1.26,Float,T,A,T,M,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2MVA,India,0,1.42,Float,T,A,T,M,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2MVA,India,0,1.48,Float,T,A,T,M,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2MVA,India,0,1.4,Float,T,A,T,M,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2MVA,India,0,1.29,Float,T,A,T,M,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2MVA,India,0,1.4,Float,T,A,T,M,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2MVA,India,0,1.45,Float,T,A,T,M,P,Total,Kg
+15,15.1,15.1.1,AG_LND_FRST,India,0,21.505184666973857,Float,T,A,T,NA,P,Total,Percentage
+15,15.1,15.1.1,AG_LND_FRST,India,0,23.473104645179080,Float,T,A,T,NA,P,Total,Percentage
+15,15.1,15.1.1,AG_LND_FRST,India,0,21.993212677292740,Float,T,A,T,NA,P,Total,Percentage
+15,15.1,15.1.1,AG_LND_FRST,India,0,23.773119107759680,Float,T,A,T,NA,P,Total,Percentage
+15,15.1,15.1.1,AG_LND_FRST,India,0,22.773183012185566,Float,T,A,T,NA,P,Total,Percentage
+3,3.9,3.9.2,SH_STA_WASH,India,0,27.4,Float,T,A,T,E,P,Total,per 100000 pop
+4,4.b,4.b.1,DC_TOF_SCHIPSL,India,0,16.056157,Float,T,A,T,NA,P,Total,USD
+4,4.b,4.b.1,DC_TOF_SCHIPSL,India,0,17.922197,Float,T,A,T,NA,P,Total,USD
+4,4.b,4.b.1,DC_TOF_SCHIPSL,India,0,18.672741,Float,T,A,T,NA,P,Total,USD
+4,4.b,4.b.1,DC_TOF_SCHIPSL,India,0,1.074668,Float,T,A,T,NA,P,Total,USD
+4,4.b,4.b.1,DC_TOF_SCHIPSL,India,0,13.587374,Float,T,A,T,NA,P,Total,USD
+4,4.b,4.b.1,DC_TOF_SCHIPSL,India,0,17.174798,Float,T,A,T,NA,P,Total,USD
+4,4.b,4.b.1,DC_TOF_SCHIPSL,India,0,20.970594,Float,T,A,T,NA,P,Total,USD
+4,4.b,4.b.1,DC_TOF_SCHIPSL,India,0,21.285841,Float,T,A,T,NA,P,Total,USD
+4,4.b,4.b.1,DC_TOF_SCHIPSL,India,0,2.164343,Float,T,A,T,NA,P,Total,USD
+4,4.b,4.b.1,DC_TOF_SCHIPSL,India,0,15.86151,Float,T,A,T,NA,P,Total,USD
+6,6.b,6.b.1,ER_H2O_PROCEDNA,India,0,0,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PROCEDNA,India,0,0,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PROCEDNA,India,0,1,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PROCEDNA,India,0,1,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_WAT_PARTICH,India,0,0,Float,T,A,T,C,P,Total,NA
+8,8.a,8.a.1,DC_TOF_TRDDBML,India,0,1371.065001,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDDBML,India,0,1821.095853,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDDBML,India,0,879.983905,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDDBML,India,0,1880.282645,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDDBML,India,0,979.94961,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDDBML,India,0,1703.629541,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDDBML,India,0,2154.401007,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDDBML,India,0,3085.610512,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDDBML,India,0,1434.286795,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDDBML,India,0,1588.21061,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHL,India,0,254.799485,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHL,India,0,340.865742,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHL,India,0,296.304046,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHL,India,0,391.271913,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHL,India,0,368.179596,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHL,India,0,243.722385,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHL,India,0,285.182596,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHL,India,0,207.498104,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHL,India,0,124.968063,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHL,India,0,183.327909,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHL,India,0,237.938081,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHL,India,0,266.546357,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHL,India,0,204.781939,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHL,India,0,254.001407,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHL,India,0,193.445455,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHL,India,0,290.767694,Float,T,A,T,NA,P,Total,USD
+6,6.5,6.5.1,ER_H2O_INTGADN,India,0,0,Float,T,A,T,NA,P,Total,NA
+3,3.c,3.c.1,SH_MED_DENTSTY,India,0,0.043,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_DENTSTY,India,0,0.078,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_DENTSTY,India,0,0.043,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_DENTSTY,India,0,0.044,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_DENTSTY,India,0,0.037,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_DENTSTY,India,0,0.049,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_DENTSTY,India,0,0.048,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_DENTSTY,India,0,0.096,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_DENTSTY,India,0,0.094,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_DENTSTY,India,0,0.119,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_DENTSTY,India,0,0.086,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_DENTSTY,India,0,0.067,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_DENTSTY,India,0,0.062,Float,T,A,T,C,P,Total,per 1000 pop
+15,15.6,15.6.1,ER_CBD_PTYPGRFA,India,0,1,Float,T,A,T,NA,P,Total,NA
+6,6.b,6.b.1,ER_WAT_PROCEDN,India,0,0,Float,T,A,T,C,P,Total,NA
+11,11.5,11.5.2,VC_DSR_AALT,India,0,8583.860,Float,T,A,T,E,P,Total,USD
+6,6.b,6.b.1,ER_HYG_PROCEDY,India,0,1,Float,T,A,T,C,P,Total,NA
+6,6.b,6.b.1,ER_HYG_PROCEDY,India,0,1,Float,T,A,T,C,P,Total,NA
+15,15.4,15.4.1,ER_PTD_MTN,India,0,28.60254898460150,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,28.60254898460150,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,28.60254898460150,Float,T,A,T,C,LB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.50810397164170,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.50810397164170,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.50810397164170,Float,T,A,T,C,LB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.49155280650410,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.49155280650410,Float,T,A,T,C,LB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.49155280650410,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,LB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,LB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.32233360558670,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.32233360558670,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.32233360558670,Float,T,A,T,C,LB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,LB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,LB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.32233360558670,Float,T,A,T,C,LB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.32233360558670,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.32233360558670,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,LB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.50810397164170,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.50810397164170,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.50810397164170,Float,T,A,T,C,LB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,LB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,LB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,28.91417838139040,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,28.91417838139040,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,28.91417838139040,Float,T,A,T,C,LB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.49155280650410,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.49155280650410,Float,T,A,T,C,LB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,36.49155280650410,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,28.91417838143050,Float,T,A,T,C,LB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,28.91417838143050,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,28.91417838143050,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,LB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,29.02381204886170,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,28.60254898460150,Float,T,A,T,C,UB,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,28.60254898460150,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.1,ER_PTD_MTN,India,0,28.60254898460150,Float,T,A,T,C,LB,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,India,0,1.923005316398089,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,India,0,2.658000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,India,0,1.923005316398089,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,India,0,2.658000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,India,0,1.954071472714609,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,India,0,1.954071472714609,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,India,0,2.338874802574496,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,India,0,1.888913021588029,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,India,0,2.338874802574496,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,India,0,1.888913021588029,Float,T,A,T,G,P,Total,Percentage
+9,9.5,9.5.2,GB_POP_SCIERD,India,0,110,Float,T,A,T,C,P,Total,pero M pop
+9,9.5,9.5.2,GB_POP_SCIERD,India,0,135,Float,T,A,T,C,P,Total,pero M pop
+9,9.5,9.5.2,GB_POP_SCIERD,India,0,157,Float,T,A,T,C,P,Total,pero M pop
+6,6.5,6.5.1,ER_H2O_INTGN,India,0,0,Float,T,A,T,NA,P,Total,NA
+16,16.2,16.2.3,VC_VAW_SXVLN,India,0,1.339830236160975,Float,18-27,A,T,C,P,Female,Percentage
+3,3.2,3.2.1,SH_DYN_IMRT,India,0,66.4,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,India,0,62,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,India,0,37.9,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,India,0,46.3,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,India,0,51.9,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,India,0,59.9,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,India,0,40.9,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,India,0,64.2,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,India,0,55.8,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,India,0,50,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,India,0,57.8,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,India,0,39.3,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,India,0,53.9,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,India,0,42.6,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,India,0,44.4,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,India,0,48.2,Float,<1,A,T,,P,Total,per 1000 births
+3,3.4,3.4.1,SH_DTH_NCOM,India,0,20.056080818176,Float,30-70,A,T,CA,P,Female,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,India,0,26.480042934418,Float,30-70,A,T,CA,P,Male,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,India,0,23.349541425705,Float,30-70,A,T,CA,P,Total,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,India,0,21.498262882233,Float,30-70,A,T,CA,P,Female,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,India,0,27.253943681717,Float,30-70,A,T,CA,P,Male,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,India,0,24.434983730316,Float,30-70,A,T,CA,P,Total,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,India,0,25.261974334717,Float,30-70,A,T,CA,P,Total,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,India,0,27.951627969742,Float,30-70,A,T,CA,P,Male,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,India,0,22.520905733109,Float,30-70,A,T,CA,P,Female,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,India,0,23.703664541245,Float,30-70,A,T,CA,P,Female,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,India,0,29.570347070694,Float,30-70,A,T,CA,P,Male,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,India,0,26.665002107620,Float,30-70,A,T,CA,P,Total,Prob
+2,2.5,2.5.1,ER_GRF_ANIMSTOR,India,0,24.117647,Float,T,A,T,C,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_3GNTWK,India,0,74,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_3GNTWK,India,0,0,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_3GNTWK,India,0,61,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_3GNTWK,India,0,74,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_3GNTWK,India,0,0,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_3GNTWK,India,0,0.08,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_3GNTWK,India,0,61,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_3GNTWK,India,0,0.08,Float,T,A,T,,P,Total,Percentage
+12,12.4,12.4.1,SG_HAZ_CMRROTDAM,India,0,94.117647,Float,T,A,T,C,P,Total,Percentage
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,3244631040,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,3297524480,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,3469892352,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,4659318784,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,4854545920,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,4051404288,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,4051404288,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,3244631040,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,3562116096,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,4418412544,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,4854545920,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,5022333440,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,3469892352,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,3132977920,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,3751349760,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,4659318784,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,4418412544,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,3132977920,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,3562116096,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,5022333440,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,3297524480,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,India,0,3751349760,Float,T,A,T,C,P,Total,T
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,1.7,Float,5-14,A,T,CA,P,Female,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,3.3,Float,5-17,A,T,CA,P,Female,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,9.9,Float,15-17,A,T,CA,P,Female,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,1.5,Float,5-14,A,T,CA,P,Male,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,18.1,Float,15-17,A,T,CA,P,Male,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,1.6,Float,5-14,A,T,CA,P,Total,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,4.1,Float,5-17,A,T,CA,P,Total,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,14.3,Float,15-17,A,T,CA,P,Total,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,4.9,Float,5-17,A,T,CA,P,Male,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,1.3,Float,5-17,A,T,CA,P,Female,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,3.8,Float,15-17,A,T,CA,P,Female,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,0.7,Float,5-14,A,T,CA,P,Male,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,2.8,Float,5-17,A,T,CA,P,Male,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,10.2,Float,15-17,A,T,CA,P,Male,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,0.7,Float,5-14,A,T,CA,P,Total,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,2.1,Float,5-17,A,T,CA,P,Total,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,7.3,Float,15-17,A,T,CA,P,Total,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,0.6,Float,5-14,A,T,CA,P,Female,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,2.3,Float,5-14,A,T,CA,P,Female,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,3.7,Float,5-17,A,T,CA,P,Female,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,9.8,Float,15-17,A,T,CA,P,Female,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,2.3,Float,5-14,A,T,CA,P,Male,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,5.3,Float,5-17,A,T,CA,P,Male,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,17.8,Float,15-17,A,T,CA,P,Male,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,2.3,Float,5-14,A,T,CA,P,Total,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,4.6,Float,5-17,A,T,CA,P,Total,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,14.1,Float,15-17,A,T,CA,P,Total,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,8.8,Float,15-17,A,T,CA,P,Total,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,2.7,Float,5-17,A,T,CA,P,Total,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,1.0,Float,5-14,A,T,CA,P,Total,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,11.7,Float,15-17,A,T,CA,P,Male,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,3.5,Float,5-17,A,T,CA,P,Male,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,1.1,Float,5-14,A,T,CA,P,Male,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,5.3,Float,15-17,A,T,CA,P,Female,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,1.8,Float,5-17,A,T,CA,P,Female,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBR,India,0,0.8,Float,5-14,A,T,CA,P,Female,Percentage
+3,3.4,3.4.1,SH_DTH_CARDIO,India,0,1325.808,Float,30-70,A,T,CA,P,Total,#
+3,3.4,3.4.1,SH_DTH_CARDIO,India,0,485.927,Float,30-70,A,T,CA,P,Female,#
+3,3.4,3.4.1,SH_DTH_CARDIO,India,0,839.881,Float,30-70,A,T,CA,P,Male,#
+3,3.4,3.4.1,SH_DTH_CARDIO,India,0,455.132,Float,30-70,A,T,CA,P,Female,#
+3,3.4,3.4.1,SH_DTH_CARDIO,India,0,738.339,Float,30-70,A,T,CA,P,Male,#
+3,3.4,3.4.1,SH_DTH_CARDIO,India,0,1193.471,Float,30-70,A,T,CA,P,Total,#
+3,3.4,3.4.1,SH_DTH_CARDIO,India,0,407.478,Float,30-70,A,T,CA,P,Female,#
+3,3.4,3.4.1,SH_DTH_CARDIO,India,0,620.949,Float,30-70,A,T,CA,P,Male,#
+3,3.4,3.4.1,SH_DTH_CARDIO,India,0,1028.427,Float,30-70,A,T,CA,P,Total,#
+3,3.4,3.4.1,SH_DTH_CARDIO,India,0,358.937,Float,30-70,A,T,CA,P,Female,#
+3,3.4,3.4.1,SH_DTH_CARDIO,India,0,552.002,Float,30-70,A,T,CA,P,Male,#
+3,3.4,3.4.1,SH_DTH_CARDIO,India,0,910.939,Float,30-70,A,T,CA,P,Total,#
+8,8.8,8.8.1,SL_EMP_FTLINJUR,India,0,82.5,Float,15+,A,T,C,P,Total,per 100000 emp
+8,8.8,8.8.1,SL_EMP_FTLINJUR,India,0,89.3,Float,15+,A,T,C,P,Total,per 100000 emp
+8,8.8,8.8.1,SL_EMP_FTLINJUR,India,0,133.4,Float,15+,A,T,C,P,Total,per 100000 emp
+8,8.8,8.8.1,SL_EMP_FTLINJUR,India,0,98.3,Float,15+,A,T,C,P,Total,per 100000 emp
+8,8.8,8.8.1,SL_EMP_FTLINJUR,India,0,51,Float,15+,A,T,C,P,Total,per 100000 emp
+8,8.8,8.8.1,SL_EMP_FTLINJUR,India,0,77.9,Float,15+,A,T,C,P,Total,per 100000 emp
+8,8.8,8.8.1,SL_EMP_FTLINJUR,India,0,116.8,Float,15+,A,T,C,P,Total,per 100000 emp
+8,8.8,8.8.1,SL_EMP_FTLINJUR,India,0,87.8,Float,15+,A,T,C,P,Total,per 100000 emp
+6,6.b,6.b.1,ER_SAN_PROCEDY,India,0,1,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PROCEDY,India,0,1,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PROCEDY,India,0,1,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PROCEDY,India,0,0,Float,T,A,U,C,P,Total,NA
+14,14.5,14.5.1,ER_MRN_TOTL,India,0,2301226.5,Float,T,A,T,NA,P,Total,Km^2
+1,1.3,1.3.1,SI_COV_SOCAST,India,0,24.032302,Float,T,A,T,NA,P,Total,Percentage
+1,1.3,1.3.1,SI_COV_SOCAST,India,0,17.243917,Float,T,A,T,NA,P,Total,Percentage
+1,1.3,1.3.1,SI_COV_SOCAST,India,0,17.269958,Float,T,A,T,NA,P,Total,Percentage
+15,15.2,15.2.1,AG_LND_FRSTPRCTN,India,0,16122,Float,T,A,T,NA,P,Total,h
+15,15.2,15.2.1,AG_LND_FRSTPRCTN,India,0,16122,Float,T,A,T,NA,P,Total,h
+6,6.b,6.b.1,ER_HYG_PARTICM,India,0,1,Float,T,A,T,C,P,Total,NA
+6,6.b,6.b.1,ER_HYG_PARTICM,India,0,1,Float,T,A,T,C,P,Total,NA
+16,16.a,16.a.1,SG_NHR_IMPLN,India,0,1,Float,T,A,T,C,P,Total,NA
+16,16.a,16.a.1,SG_NHR_IMPLN,India,0,1,Float,T,A,T,C,P,Total,NA
+16,16.a,16.a.1,SG_NHR_IMPLN,India,0,1,Float,T,A,T,C,P,Total,NA
+16,16.a,16.a.1,SG_NHR_IMPLN,India,0,1,Float,T,A,T,C,P,Total,NA
+16,16.a,16.a.1,SG_NHR_IMPLN,India,0,1,Float,T,A,T,C,P,Total,NA
+6,6.5,6.5.1,ER_H2O_INTGDVN,India,0,0,Float,T,A,T,NA,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PARTICL,India,0,0,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PARTICL,India,0,0,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PARTICL,India,0,0,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PARTICL,India,0,0,Float,T,A,U,C,P,Total,NA
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,India,0,0.543478260869565,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,India,0,0.531914900000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,India,0,0.543478260869565,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,India,0,0.531914900000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,India,0,0.549450549450550,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,India,0,0.549450549450550,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,India,0,0.531914900000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,India,0,0.534759358288770,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,India,0,0.531914900000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,India,0,0.534759358288770,Float,T,A,T,G,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_4GNTWK,India,0,4,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_4GNTWK,India,0,2,Float,T,A,T,,P,Total,Percentage
+6,6.b,6.b.1,ER_H2O_PROCEDN,India,0,0,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PROCEDN,India,0,0,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PROCEDN,India,0,0,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PROCEDN,India,0,0,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PARTICNA,India,0,0,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PARTICNA,India,0,0,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PARTICNA,India,0,1,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PARTICNA,India,0,1,Float,T,A,R,C,P,Total,NA
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,India,0,0.561797752808989,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,India,0,0.543478260869565,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,India,0,0.561797752808989,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,India,0,0.543478260869565,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,India,0,0.574712643678161,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,India,0,0.574712643678161,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,India,0,0.543478260869565,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,India,0,0.549450549450550,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,India,0,0.543478260869565,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,India,0,0.549450549450550,Float,T,A,T,G,P,Total,Percentage
+9,9.1,9.1.2,IS_TRP_PSSGRKM,India,0,140474446040,Float,T,A,T,NA,P,Total,Km
+3,3.3,3.3.5,SH_TRP_INTVN,India,0,581636464,Float,T,A,T,CA,P,Total,#
+3,3.3,3.3.5,SH_TRP_INTVN,India,0,676907852,Float,T,A,T,CA,P,Total,#
+3,3.3,3.3.5,SH_TRP_INTVN,India,0,683421629,Float,T,A,T,CA,P,Total,#
+3,3.3,3.3.5,SH_TRP_INTVN,India,0,576971260,Float,T,A,T,CA,P,Total,#
+3,3.3,3.3.5,SH_TRP_INTVN,India,0,497396247,Float,T,A,T,CA,P,Total,#
+3,3.3,3.3.5,SH_TRP_INTVN,India,0,675898255,Float,T,A,T,CA,P,Total,#
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,52.381012,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,91.948736,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,63.686302,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,58.565285,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,69.210045,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,94.159347,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,75,Float,T,A,T,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,96.1,Float,T,A,U,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,66,Float,T,A,R,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,70.028976,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,79.169258,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,98.269357,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,93.053351,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,55.433899,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,66.431946,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,60.165581,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,70.61525,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,94.714509,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,65.7,Float,T,A,R,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,76.3,Float,T,A,T,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,94,Float,T,A,U,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,43.6,Float,T,A,R,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,55.8,Float,T,A,T,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,87.6,Float,T,A,U,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,55.7,Float,T,A,R,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,67.9,Float,T,A,T,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,93.1,Float,T,A,U,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,50.869453,Float,T,A,R,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,62.3,Float,T,A,T,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,91.340161,Float,T,A,U,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,55.8,Float,T,A,R,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,67.6,Float,T,A,T,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,92.9,Float,T,A,U,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,47.845768,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,59.562237,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,90.19394,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,97.644454,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,68.372131,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,77.737518,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,72.7,Float,T,A,R,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,79.9,Float,T,A,T,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,96.1,Float,T,A,U,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,53.900475,Float,T,A,R,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,64.4,Float,T,A,T,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,India,0,90.227242,Float,T,A,U,G,P,Total,Percentage
+3,3.2,3.2.1,SH_DYN_MORT,India,0,91.2,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,India,0,84.3,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,India,0,47.7,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,India,0,59.9,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,India,0,68.5,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,India,0,81,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,India,0,52.1,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,India,0,87.7,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,India,0,74.6,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,India,0,65.6,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,India,0,77.7,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,India,0,49.8,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,India,0,71.5,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,India,0,54.5,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,India,0,57.2,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,India,0,62.7,Float,<5,A,T,,P,Total,per 1000 births
+1,1.1,1.1.1,SI_POV_EMP1,India,0,37.37,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,37.84,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,39.55,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,35.44,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,35.91,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,37.6,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,42.52,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,44.49,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,42,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,41.05,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,42.62,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,38.49,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,38.94,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,40.54,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,45.99,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,46.44,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,48.03,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,40.6,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,32.38,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,32.96,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,35.19,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,30.88,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,31.42,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,33.45,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,36.12,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,36.85,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,39.8,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,29.47,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,32.64,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,31.78,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,32.94,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,38.27,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,28.74,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,34.06,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,30.37,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,29.54,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,34.69,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,39.29,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,33.64,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,33.31,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,29.85,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,30.52,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,30.87,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,31.63,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,34.86,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,13.91,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,17.84,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,13.48,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,14.07,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,17.22,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,15.26,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,15.96,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,19.91,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,14.52,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,30.66,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,33.3,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,28.81,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,29.39,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,31.67,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,33.1,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,33.99,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,37.73,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,30.01,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,39.52,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,41.66,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,37.5,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,37.97,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,39.66,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,44.45,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,44.94,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,46.78,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,39.98,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,48.16,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,46.61,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,46.18,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,40.57,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,41.02,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,42.63,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,38.39,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,38.86,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,40.54,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,39.16,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,39.69,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,41.76,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,35.18,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,33.46,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,32.98,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,37.04,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,34.81,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,35.28,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,20.82,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,21.53,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,25.01,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,22.97,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,24,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,29.22,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,26.01,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,22.13,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,21.35,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,17.29,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,18.01,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,21.71,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,16.79,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,17.46,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,20.92,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,18.88,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,19.74,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,24.32,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,12.62,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,13.19,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,16.31,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,12.22,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,12.77,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,15.75,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,14.51,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,18.17,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,13.87,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,41.35,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,43.49,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,39.25,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,39.73,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,41.45,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,46.61,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,47.07,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,48.78,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,41.81,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,36.38,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,30.45,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,29.23,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,31.21,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,27.51,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,28.37,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,32.46,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,26.93,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,27.69,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,16.71,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,11.55,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,12.08,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,15.02,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,11.17,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,11.69,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,14.5,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,12.72,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,13.31,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,15.54,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,16.2,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,19.72,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,15.07,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,15.71,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,19.01,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,17,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,17.78,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,India,0,22.05,Float,15-24,A,T,M,P,Female,Percentage
+10,10.b,10.b.1,DC_TRF_TOTL,India,0,28937.85,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,India,0,-227.41,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,India,0,27998.88,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,India,0,20063.65,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,India,0,12121.27,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,India,0,2286.01,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,India,0,4305.85,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,India,0,21333.85,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,India,0,20119.59,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,India,0,8779.84,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,India,0,1927.22,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,India,0,19776.3,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,India,0,11760.57,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,India,0,13591.17,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,India,0,2184.62,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,India,0,17272.26,Float,T,A,T,NA,P,Total,USD
+9,9.2,9.2.2,SL_TLF_MANF,India,0,12.079044608973700,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.2,SL_TLF_MANF,India,0,11.353661217203700,Float,T,A,T,M,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,India,0,0.552486187845304,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,India,0,0.531914893617021,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,India,0,0.552486187845304,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,India,0,0.531914893617021,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,India,0,0.561797752808989,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,India,0,0.561797752808989,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,India,0,0.531914893617021,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,India,0,0.549450549450550,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,India,0,0.531914893617021,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,India,0,0.549450549450550,Float,T,A,T,G,P,Total,Percentage
+3,3.4,3.4.2,SH_STA_SCIDE,India,0,14.260,Float,T,A,T,CA,P,Female,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,India,0,17.100,Float,T,A,T,CA,P,Male,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,India,0,15.730,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,India,0,16.600,Float,T,A,T,CA,P,Female,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,India,0,18.240,Float,T,A,T,CA,P,Male,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,India,0,17.450,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,India,0,16.030,Float,T,A,T,CA,P,Female,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,India,0,18.030,Float,T,A,T,CA,P,Male,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,India,0,17.070,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,India,0,17.800,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,India,0,18.910,Float,T,A,T,CA,P,Male,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,India,0,16.600,Float,T,A,T,CA,P,Female,per 100000 pop
+16,16.10,16.10.2,SG_INF_ACCSS,India,0,1,Float,T,A,T,E,P,Total,NA
+8,8.10,8.10.1,FB_ATM_TOTL,India,0,3.379844,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,India,0,10.99323,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,India,0,2.740876,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,India,0,4.289297,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,India,0,12.86995,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,India,0,19.70741,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,India,0,5.312121,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,India,0,17.80236,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,India,0,2.293673,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,India,0,8.851797,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,India,0,7.268651,Float,15+,A,T,C,P,Total,per 100000 pop
+17,17.6,17.6.2,IT_NET_BD256KL2MN,India,0,6749703,Float,T,A,T,NA,P,Total,#
+2,2.a,2.a.1,AG_PRD_ORTIND,India,0,0.204471,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,India,0,0.37726,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,India,0,0.427563,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,India,0,0.354007,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,India,0,0.588273,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,India,0,0.267271,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,India,0,0.431451,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,India,0,0.278599,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,India,0,0.348287,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,India,0,0.227208,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,India,0,0.445699,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,India,0,0.208091,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,India,0,0.37403,Float,T,A,T,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PARTICL,India,0,0,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PARTICL,India,0,0,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PARTICL,India,0,0,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PARTICL,India,0,0,Float,T,A,R,C,P,Total,NA
+2,2.5,2.5.1,ER_GRF_ANIMRCNTN,India,0,14,Float,T,A,T,C,P,Total,#
+12,12.4,12.4.1,SG_HAZ_CMRBASEL,India,0,16.666667,Float,T,A,T,C,P,Total,Percentage
+6,6.b,6.b.1,ER_H2O_PROCEDY,India,0,1,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PROCEDY,India,0,1,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PROCEDY,India,0,0,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PROCEDY,India,0,0,Float,T,A,R,C,P,Total,NA
+15,15.6,15.6.1,ER_CBD_ORSPGRFA,India,0,0,Float,T,A,T,NA,P,Total,NA
+17,17.18,17.18.3,SG_STT_NSDSIMPL,India,0,1,Float,T,A,T,G,P,Total,#
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRFSB,India,0,4.166666666666666,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRFSB,India,0,4.166666666666666,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRFSB,India,0,4.166666666666666,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRFSB,India,0,4.166666666666666,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRFSB,India,0,4.166666666666666,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRFSB,India,0,4.166666666666666,Float,T,A,T,G,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_SAFE,India,0,23.44807,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_SAFE,India,0,16.43629,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_SAFE,India,0,9.46441,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_SAFE,India,0,17.83067,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_SAFE,India,0,12.25316,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_SAFE,India,0,29.08433,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_SAFE,India,0,10.85879,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_SAFE,India,0,30.53218,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_SAFE,India,0,20.63701,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_SAFE,India,0,26.26385,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_SAFE,India,0,22.04195,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_SAFE,India,0,19.23325,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_SAFE,India,0,24.85537,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_SAFE,India,0,15.04192,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_SAFE,India,0,13.64754,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_SAFE,India,0,27.6735,Float,T,A,R,E,P,Total,Percentage
+3,3.c,3.c.1,SH_MED_PHARMA,India,0,0.505,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHARMA,India,0,0.533,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHARMA,India,0,0.499,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHARMA,India,0,0.527,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHARMA,India,0,0.540,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHARMA,India,0,0.519,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHARMA,India,0,0.498,Float,T,A,T,C,P,Total,per 1000 pop
+15,15.2,15.2.1,AG_LND_FRSTPRCT,India,0,22.809202,Float,T,A,T,NA,P,Total,Percentage
+15,15.2,15.2.1,AG_LND_FRSTPRCT,India,0,22.809202,Float,T,A,T,NA,P,Total,Percentage
+7,7.3,7.3.1,EG_EGY_PRIM,India,0,4.944337,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,India,0,6.949595,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,India,0,5.199643,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,India,0,4.988625,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,India,0,6.672001,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,India,0,6.333922,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,India,0,6.724806,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,India,0,6.181108,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,India,0,5.661849,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,India,0,5.507649,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,India,0,5.877519,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,India,0,5.353179,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,India,0,5.232986,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,India,0,5.562142,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,India,0,5.646712,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+2,2.5,2.5.2,ER_NRK_LBRED,India,0,0.0000000000000000,Float,T,A,T,C,P,Total,Percentage
+15,15.4,15.4.2,ER_MTN_GRNCVI,India,0,90.340244,Float,T,A,T,NA,P,Total,Percentage
+15,15.2,15.2.1,AG_LND_FRSTBIOM,India,0,3291,Float,T,A,T,NA,P,Total,T
+15,15.2,15.2.1,AG_LND_FRSTBIOM,India,0,3100,Float,T,A,T,NA,P,Total,T
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRWTO,India,0,0.617284000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRWTO,India,0,0.671140939597316,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRWTO,India,0,0.617284000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRWTO,India,0,0.714285714285714,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRWTO,India,0,0.714285714285714,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRWTO,India,0,0.625000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRWTO,India,0,0.653594771241830,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRWTO,India,0,0.625000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRWTO,India,0,0.671140939597316,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRWTO,India,0,0.653594771241830,Float,T,A,T,G,P,Total,Percentage
+1,1.3,1.3.1,SI_COV_MATNL,India,0,41.0000000000000000,Float,T,A,T,E,P,Female,Percentage
+1,1.3,1.3.1,SI_COV_MATNL,India,0,41.0000000000000000,Float,T,A,T,E,P,Total,Percentage
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,2.55,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,3.56,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,2.55,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,3.26,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,2.55,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,3.26,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,2.79,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,2.55,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,2.79,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,3.29,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,2.64,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,2.49,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,2.49,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,3.29,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,2.47,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,3.56,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,2.47,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,3.45,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,2.64,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,2.95,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,2.95,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,India,0,3.45,Float,T,A,T,C,P,Total,T
+6,6.b,6.b.1,ER_H2O_PARTICM,India,0,1,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PARTICM,India,0,1,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PARTICM,India,0,0,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PARTICM,India,0,0,Float,T,A,R,C,P,Total,NA
+11,11.5,11.5.2,VC_DSR_AALG,India,0,4.190279192702499,Float,T,A,T,E,P,Total,per 1000 usd
+5,5.3,5.3.1,SP_DYN_MRBF18,India,0,47.4,Float,20-24,A,T,C,P,Female,Percentage
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,7557,Float,15-17,A,T,CA,P,Total,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,12868,Float,5-17,A,T,CA,P,Total,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,5311,Float,5-14,A,T,CA,P,Total,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,5168,Float,15-17,A,T,CA,P,Male,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,7972,Float,5-17,A,T,CA,P,Male,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,2804,Float,5-14,A,T,CA,P,Male,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,2389,Float,15-17,A,T,CA,P,Female,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,4896,Float,5-17,A,T,CA,P,Female,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,2507,Float,5-14,A,T,CA,P,Female,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,5534,Float,15-17,A,T,CA,P,Total,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,7742,Float,5-17,A,T,CA,P,Total,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,2208,Float,5-14,A,T,CA,P,Total,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,4054,Float,15-17,A,T,CA,P,Male,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,5407,Float,5-17,A,T,CA,P,Male,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,1353,Float,5-14,A,T,CA,P,Male,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,1481,Float,15-17,A,T,CA,P,Female,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,2335,Float,5-17,A,T,CA,P,Female,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,855,Float,5-14,A,T,CA,P,Female,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,4767,Float,15-17,A,T,CA,P,Total,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,6318,Float,5-17,A,T,CA,P,Total,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,1550,Float,5-14,A,T,CA,P,Total,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,3639,Float,15-17,A,T,CA,P,Male,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,4544,Float,5-17,A,T,CA,P,Male,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,905,Float,5-14,A,T,CA,P,Male,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,1128,Float,15-17,A,T,CA,P,Female,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,1773,Float,5-17,A,T,CA,P,Female,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,645,Float,5-14,A,T,CA,P,Female,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,4368,Float,5-17,A,T,CA,P,Female,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,1778,Float,5-14,A,T,CA,P,Female,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,2590,Float,15-17,A,T,CA,P,Female,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,1781,Float,5-14,A,T,CA,P,Male,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,7272,Float,5-17,A,T,CA,P,Male,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,5490,Float,15-17,A,T,CA,P,Male,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,8080,Float,15-17,A,T,CA,P,Total,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,11640,Float,5-17,A,T,CA,P,Total,#
+8,8.7,8.7.1,SL_TLF_CHDLBRN,India,0,3559,Float,5-14,A,T,CA,P,Total,#
+15,15.1,15.1.1,AG_LND_TOTL,India,0,297319,Float,T,A,T,NA,P,Total,h
+8,8.3,8.3.1,SL_ISV_IFRM,India,0,84.70,Float,T,A,T,C,P,Female,Percentage
+8,8.3,8.3.1,SL_ISV_IFRM,India,0,83.33,Float,T,A,T,C,P,Male,Percentage
+8,8.3,8.3.1,SL_ISV_IFRM,India,0,83.59,Float,T,A,T,C,P,Total,Percentage
+8,8.3,8.3.1,SL_ISV_IFRM,India,0,86.38,Float,T,A,T,C,P,Female,Percentage
+8,8.3,8.3.1,SL_ISV_IFRM,India,0,84.30,Float,T,A,T,C,P,Male,Percentage
+8,8.3,8.3.1,SL_ISV_IFRM,India,0,84.71,Float,T,A,T,C,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,India,0,0.0047192032178835,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,India,0,0.91156066013010040,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,India,0,0.27003820436672480,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,India,0,0.0076538090436062,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,India,0,0.11959435001796240000,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,India,0,1.2426997808490652000,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,India,0,0.20117391979554430,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,India,0,1.321185130639591200,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,India,0,0.650824488498905400,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,India,0,0.4494908747112342000,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,India,0,1.192172985159715400,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,India,0,0.012832665824492764,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,India,0,1.211477216689343500,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,India,0,0.02115923606578857700,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,India,0,1.093323335617935700,Float,T,A,T,NA,P,Total,Percentage
+6,6.b,6.b.1,ER_SAN_PARTICNA,India,0,0,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PARTICNA,India,0,0,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PARTICNA,India,0,1,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PARTICNA,India,0,0,Float,T,A,R,C,P,Total,NA
+2,2.5,2.5.1,ER_GRF_ANIMKPT,India,0,170,Float,T,A,T,C,P,Total,#
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,India,0,77.96304,Float,T,A,T,C,P,Female,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,India,0,76.54163,Float,T,A,T,C,P,Male,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,India,0,77.24506,Float,T,A,T,C,P,Total,Percentage
+17,17.19,17.19.2,SG_REG_CENSUSN,India,0,1,Float,T,A,T,C,P,Total,#
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.06,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.06,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.17,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.97,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,4.08,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.54,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.54,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.06,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.21,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.81,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,4.08,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,4.17,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.17,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.01,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.33,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.97,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.81,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.01,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.21,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,4.17,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.06,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,India,0,3.33,Float,T,A,T,C,P,Total,T
+8,8.10,8.10.2,FB_BNK_ACCSS,India,0,40.52884,Float,15+,A,T,NA,P,Total,Percentage
+8,8.10,8.10.2,FB_BNK_ACCSS,India,0,58.59217,Float,15+,A,T,NA,P,Total,Percentage
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,5.16,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,5.05,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,4.9,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,4.46,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,4.29,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,4.43,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,4.43,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,5.16,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,4.65,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,4.4,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,4.29,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,4.01,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,4.9,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,5.24,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,4.48,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,4.46,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,4.4,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,5.24,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,4.65,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,4.01,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,5.05,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,India,0,4.48,Float,T,A,T,C,P,Total,Kg
+3,3.7,3.7.1,SH_FPL_MTMM,India,0,72.0,Float,15-49,A,T,C,P,Female,Percentage
+3,3.7,3.7.1,SH_FPL_MTMM,India,0,61.7,Float,15-49,A,T,CA,P,Female,Percentage
+3,3.7,3.7.1,SH_FPL_MTMM,India,0,69.1,Float,15-49,A,T,C,P,Female,Percentage
+3,3.7,3.7.1,SH_FPL_MTMM,India,0,63.9,Float,15-49,A,T,C,P,Female,Percentage
+6,6.b,6.b.1,ER_SAN_PROCEDN,India,0,0,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PROCEDN,India,0,0,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PROCEDN,India,0,0,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PROCEDN,India,0,0,Float,T,A,U,C,P,Total,NA
+9,9.4,9.4.1,EN_ATM_CO2GDP,India,0,0.2926400,Float,T,A,T,C,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2GDP,India,0,0.2996500,Float,T,A,T,C,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2GDP,India,0,0.2922700,Float,T,A,T,C,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2GDP,India,0,0.3303800,Float,T,A,T,C,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2GDP,India,0,0.3421500,Float,T,A,T,C,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2GDP,India,0,0.2879500,Float,T,A,T,C,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2GDP,India,0,0.3119400,Float,T,A,T,C,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2GDP,India,0,0.3122900,Float,T,A,T,C,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2GDP,India,0,0.2926200,Float,T,A,T,C,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2GDP,India,0,0.2923500,Float,T,A,T,C,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2GDP,India,0,0.3318300,Float,T,A,T,C,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2GDP,India,0,0.2968500,Float,T,A,T,C,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2GDP,India,0,0.3106400,Float,T,A,T,C,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2GDP,India,0,0.2996800,Float,T,A,T,C,P,Total,Kg
+9,9.4,9.4.1,EN_ATM_CO2GDP,India,0,0.2975600,Float,T,A,T,C,P,Total,Kg
+7,7.2,7.2.1,EG_FEC_RNEW,India,0,47.44,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,India,0,45.87,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,India,0,43.63,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,India,0,37.73,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,India,0,38.93,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,India,0,36.54,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,India,0,51.58,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,India,0,40.77,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,India,0,48.58,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,India,0,50.57,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,India,0,38.39,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,India,0,50.84,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,India,0,51.79,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,India,0,39.48,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,India,0,49.72,Float,T,A,T,NA,P,Total,Percentage
+1,1.3,1.3.1,SI_COV_PENSN,India,0,24.100000000000000,Float,T,A,T,E,P,Total,Percentage
+15,15.6,15.6.1,ER_CBD_ABSCLRHS,India,0,1,Float,T,A,T,NA,P,Total,NA
+3,3.9,3.9.1,SH_HAP_ASMORT,India,0,137.816040039062000,Float,T,A,T,E,P,Total,per 100000 pop
+6,6.b,6.b.1,ER_HYG_PROCEDNA,India,0,0,Float,T,A,T,C,P,Total,NA
+6,6.b,6.b.1,ER_HYG_PROCEDNA,India,0,0,Float,T,A,T,C,P,Total,NA
+15,15.4,15.4.2,ER_MTN_GRNCOV,India,0,394.7166924218750,Float,T,A,T,NA,P,Total,Km^2
+9,9.a,9.a.1,DC_TOF_INFRAL,India,0,3890.714632,Float,T,A,T,NA,P,Total,USD
+9,9.a,9.a.1,DC_TOF_INFRAL,India,0,4716.134657,Float,T,A,T,NA,P,Total,USD
+9,9.a,9.a.1,DC_TOF_INFRAL,India,0,987.048976,Float,T,A,T,NA,P,Total,USD
+9,9.a,9.a.1,DC_TOF_INFRAL,India,0,1287.32274,Float,T,A,T,NA,P,Total,USD
+9,9.a,9.a.1,DC_TOF_INFRAL,India,0,1258.749024,Float,T,A,T,NA,P,Total,USD
+9,9.a,9.a.1,DC_TOF_INFRAL,India,0,1278.079261,Float,T,A,T,NA,P,Total,USD
+9,9.a,9.a.1,DC_TOF_INFRAL,India,0,2884.563229,Float,T,A,T,NA,P,Total,USD
+9,9.a,9.a.1,DC_TOF_INFRAL,India,0,2924.449889,Float,T,A,T,NA,P,Total,USD
+9,9.a,9.a.1,DC_TOF_INFRAL,India,0,1529.637445,Float,T,A,T,NA,P,Total,USD
+9,9.a,9.a.1,DC_TOF_INFRAL,India,0,1727.222686,Float,T,A,T,NA,P,Total,USD
+9,9.a,9.a.1,DC_TOF_INFRAL,India,0,1849.115396,Float,T,A,T,NA,P,Total,USD
+9,9.a,9.a.1,DC_TOF_INFRAL,India,0,1953.025983,Float,T,A,T,NA,P,Total,USD
+9,9.a,9.a.1,DC_TOF_INFRAL,India,0,5243.237504,Float,T,A,T,NA,P,Total,USD
+9,9.a,9.a.1,DC_TOF_INFRAL,India,0,2653.699091,Float,T,A,T,NA,P,Total,USD
+9,9.a,9.a.1,DC_TOF_INFRAL,India,0,2291.386281,Float,T,A,T,NA,P,Total,USD
+9,9.a,9.a.1,DC_TOF_INFRAL,India,0,2981.188516,Float,T,A,T,NA,P,Total,USD
+11,11.1,11.1.1,EN_LND_SLUMN,India,0,122230.85057515,Float,T,A,T,M,P,Total,#
+11,11.1,11.1.1,EN_LND_SLUMN,India,0,121021.9174395,Float,T,A,T,M,P,Total,#
+11,11.1,11.1.1,EN_LND_SLUMN,India,0,112912.592309475,Float,T,A,T,M,P,Total,#
+11,11.1,11.1.1,EN_LND_SLUMN,India,0,119698.26574,Float,T,A,T,M,P,Total,#
+11,11.1,11.1.1,EN_LND_SLUMN,India,0,109101.619745055,Float,T,A,T,M,P,Total,#
+11,11.1,11.1.1,EN_LND_SLUMN,India,0,98448.96,Float,T,A,T,M,P,Total,#
+11,11.1,11.1.1,EN_LND_SLUMN,India,0,104678.91832801,Float,T,A,T,M,P,Total,#
+14,14.5,14.5.1,ER_MRN_MARINT,India,0,3928,Float,T,A,T,NA,P,Total,Km^2
+8,8.10,8.10.1,FB_CBK_BRCH,India,0,9.006096,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,India,0,11.18509,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,India,0,8.895781,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,India,0,9.312941,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,India,0,11.85445,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,India,0,8.962884,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,India,0,13.54871,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,India,0,9.601979,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,India,0,12.87162,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,India,0,8.925328,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,India,0,10.51198,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,India,0,10.03761,Float,15+,A,T,C,P,Total,per 100000 pop
+2,2.5,2.5.2,ER_UNK_LBRED,India,0,96.8609865470852000,Float,T,A,T,C,P,Total,Percentage
+4,4.a,4.a.1,SE_USC_ELECT,India,0,86.718435,Float,T,A,T,C,P,Total,Percentage
+3,3.4,3.4.2,SH_STA_SCIDEN,India,0,90.046,Float,T,A,T,CA,P,Female,#
+3,3.4,3.4.2,SH_STA_SCIDEN,India,0,116.232,Float,T,A,T,CA,P,Male,#
+3,3.4,3.4.2,SH_STA_SCIDEN,India,0,206.278,Float,T,A,T,CA,P,Total,#
+3,3.4,3.4.2,SH_STA_SCIDEN,India,0,91.513,Float,T,A,T,CA,P,Female,#
+3,3.4,3.4.2,SH_STA_SCIDEN,India,0,108.202,Float,T,A,T,CA,P,Male,#
+3,3.4,3.4.2,SH_STA_SCIDEN,India,0,199.715,Float,T,A,T,CA,P,Total,#
+3,3.4,3.4.2,SH_STA_SCIDEN,India,0,95.001,Float,T,A,T,CA,P,Female,#
+3,3.4,3.4.2,SH_STA_SCIDEN,India,0,115.097,Float,T,A,T,CA,P,Male,#
+3,3.4,3.4.2,SH_STA_SCIDEN,India,0,210.098,Float,T,A,T,CA,P,Total,#
+3,3.4,3.4.2,SH_STA_SCIDEN,India,0,84.303,Float,T,A,T,CA,P,Female,#
+3,3.4,3.4.2,SH_STA_SCIDEN,India,0,103.182,Float,T,A,T,CA,P,Male,#
+3,3.4,3.4.2,SH_STA_SCIDEN,India,0,187.486,Float,T,A,T,CA,P,Total,#
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTWTO,India,0,0.617284000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTWTO,India,0,0.671140939597316,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTWTO,India,0,0.671140939597316,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTWTO,India,0,0.617284000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTWTO,India,0,0.714285714285714,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTWTO,India,0,0.714285714285714,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTWTO,India,0,0.625000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTWTO,India,0,0.653594771241830,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTWTO,India,0,0.625000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTWTO,India,0,0.653594771241830,Float,T,A,T,G,P,Total,Percentage
+6,6.b,6.b.1,ER_WAT_PARTICL,India,0,1,Float,T,A,T,C,P,Total,NA
+2,2.5,2.5.2,ER_NRK_LBREDN,India,0,0,Float,T,A,T,C,P,Total,#
+6,6.5,6.5.1,ER_H2O_INTGNON,India,0,0,Float,T,A,T,NA,P,Total,NA
+6,6.5,6.5.1,ER_H2O_INTGNON,India,0,1,Float,T,A,T,NA,P,Total,#
+17,17.16,17.16.1,SG_PLN_MSTKSDG,India,0,0,Float,T,A,T,NA,P,Total,NA
+6,6.1,6.1.1,SH_H2O_SAFE,India,0,38.25657,Float,T,A,R,E,P,Total,Percentage
+6,6.1,6.1.1,SH_H2O_SAFE,India,0,34.31377,Float,T,A,R,E,P,Total,Percentage
+6,6.1,6.1.1,SH_H2O_SAFE,India,0,42.34297,Float,T,A,R,E,P,Total,Percentage
+6,6.1,6.1.1,SH_H2O_SAFE,India,0,49.47277,Float,T,A,R,E,P,Total,Percentage
+6,6.1,6.1.1,SH_H2O_SAFE,India,0,29.28009,Float,T,A,R,E,P,Total,Percentage
+6,6.1,6.1.1,SH_H2O_SAFE,India,0,39.60275,Float,T,A,R,E,P,Total,Percentage
+6,6.1,6.1.1,SH_H2O_SAFE,India,0,43.73702,Float,T,A,R,E,P,Total,Percentage
+6,6.1,6.1.1,SH_H2O_SAFE,India,0,30.51457,Float,T,A,R,E,P,Total,Percentage
+6,6.1,6.1.1,SH_H2O_SAFE,India,0,46.57298,Float,T,A,R,E,P,Total,Percentage
+6,6.1,6.1.1,SH_H2O_SAFE,India,0,31.76502,Float,T,A,R,E,P,Total,Percentage
+6,6.1,6.1.1,SH_H2O_SAFE,India,0,35.61208,Float,T,A,R,E,P,Total,Percentage
+6,6.1,6.1.1,SH_H2O_SAFE,India,0,40.96488,Float,T,A,R,E,P,Total,Percentage
+6,6.1,6.1.1,SH_H2O_SAFE,India,0,45.14702,Float,T,A,R,E,P,Total,Percentage
+6,6.1,6.1.1,SH_H2O_SAFE,India,0,48.0149,Float,T,A,R,E,P,Total,Percentage
+6,6.1,6.1.1,SH_H2O_SAFE,India,0,33.03142,Float,T,A,R,E,P,Total,Percentage
+6,6.1,6.1.1,SH_H2O_SAFE,India,0,36.92635,Float,T,A,R,E,P,Total,Percentage
+15,15.2,15.2.1,AG_LND_FRSTMGT,India,0,44,Float,T,A,T,NA,P,Total,Percentage
+15,15.2,15.2.1,AG_LND_FRSTMGT,India,0,45,Float,T,A,T,NA,P,Total,Percentage
+9,9.1,9.1.2,IS_RDP_FRGHTKM,India,0,1508550,Float,T,A,T,E,P,Total,TKm
+3,3.5,3.5.2,SH_ALC_CONSPT,India,0,5,Float,15+,A,T,E,P,Total,L
+1,1.3,1.3.1,SI_COV_VULN,India,0,2.70000000000000,Float,T,A,T,E,P,Total,Percentage
+3,3.2,3.2.2,SH_DYN_NMRT,India,0,29.5,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,India,0,27.7,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,India,0,32.7,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,India,0,45.1,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,India,0,30.6,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,India,0,42.3,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,India,0,40.9,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,India,0,34.9,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,India,0,33.8,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,India,0,31.6,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,India,0,37.1,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,India,0,28.6,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,India,0,38.3,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,India,0,36,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,India,0,43.7,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,India,0,39.5,Float,<1m,A,T,,P,Total,per 1000 births
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTADB,India,0,5.419000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTADB,India,0,5.419000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTADB,India,0,5.497000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTADB,India,0,5.497000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTADB,India,0,5.369000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTADB,India,0,6.050000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTADB,India,0,5.369000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTADB,India,0,6.050000000000000,Float,T,A,T,G,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BD10MB,India,0,0.10776103006761430,Float,T,A,T,NA,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_DAY1,India,0,45.91,Float,T,A,T,G,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_DAY1,India,0,31.1,Float,T,A,T,G,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_DAY1,India,0,38.21,Float,T,A,T,G,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_DAY1,India,0,21.23,Float,T,A,T,G,P,Total,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,8.8398,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,11.8081,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,9.0074,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,9.0239,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,8.2873,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,10.8257,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,11.3761,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,8.2569,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,11.9705,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,9.0573,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,11.0092,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,11.0092,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,9.0573,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,10.8257,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,8.8398,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,8.2569,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,8.8398,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,India,0,11.9705,Float,T,A,T,C,P,Female,Percentage
+17,17.6,17.6.2,IT_NET_BD2L10MB,India,0,0.6623528718307846,Float,T,A,T,NA,P,Total,Percentage
+6,6.b,6.b.1,ER_HYG_PARTICNA,India,0,0,Float,T,A,T,C,P,Total,NA
+6,6.b,6.b.1,ER_HYG_PARTICNA,India,0,0,Float,T,A,T,C,P,Total,NA
+17,17.6,17.6.2,IT_NET_BBNDN,India,0,50000,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,India,0,10990000,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,India,0,3130000,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,India,0,82409,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,India,0,1348000,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,India,0,15750000,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,India,0,2300000,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,India,0,16942750,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,India,0,7745710,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,India,0,5280000,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,India,0,14927670,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,India,0,140362,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,India,0,14982178,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,India,0,235000,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,India,0,13351187,Float,T,A,T,NA,P,Total,#
+3,3.9,3.9.1,SH_HAP_MORT,India,0,98.95026597147424,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.3,SH_STA_MALR,India,0,18.63222657946460,Float,T,A,T,E,P,Total,per 1000 pop
+3,3.3,3.3.3,SH_STA_MALR,India,0,48.13961621646368,Float,T,A,T,E,P,Total,per 1000 pop
+3,3.3,3.3.3,SH_STA_MALR,India,0,42.65689224592786,Float,T,A,T,E,P,Total,per 1000 pop
+3,3.3,3.3.3,SH_STA_MALR,India,0,33.14296488534529,Float,T,A,T,E,P,Total,per 1000 pop
+2,2.2,2.2.2,SN_STA_OVWGT,India,0,5.9,Float,<5,A,T,CA,P,Total,Percentage
+2,2.2,2.2.2,SN_STA_OVWGT,India,0,2.9,Float,<5,A,T,CA,P,Total,Percentage
+2,2.2,2.2.2,SN_STA_OVWGT,India,0,1.9,Float,<5,A,T,CA,P,Total,Percentage
+2,2.2,2.2.2,SN_STA_OVWGT,India,0,2.9,Float,<5,A,T,CA,P,Total,Percentage
+1,1.3,1.3.1,SI_COV_DISAB,India,0,5.44279,Float,T,A,T,E,P,Total,Percentage
+2,2.a,2.a.2,DC_TOF_AGRL,India,0,728.242873,Float,T,A,T,NA,P,Total,USD
+2,2.a,2.a.2,DC_TOF_AGRL,India,0,314.352008,Float,T,A,T,NA,P,Total,USD
+2,2.a,2.a.2,DC_TOF_AGRL,India,0,232.077923,Float,T,A,T,NA,P,Total,USD
+2,2.a,2.a.2,DC_TOF_AGRL,India,0,396.110867,Float,T,A,T,NA,P,Total,USD
+2,2.a,2.a.2,DC_TOF_AGRL,India,0,368.696255,Float,T,A,T,NA,P,Total,USD
+2,2.a,2.a.2,DC_TOF_AGRL,India,0,687.022616,Float,T,A,T,NA,P,Total,USD
+2,2.a,2.a.2,DC_TOF_AGRL,India,0,1048.487144,Float,T,A,T,NA,P,Total,USD
+2,2.a,2.a.2,DC_TOF_AGRL,India,0,690.65424,Float,T,A,T,NA,P,Total,USD
+2,2.a,2.a.2,DC_TOF_AGRL,India,0,484.365648,Float,T,A,T,NA,P,Total,USD
+2,2.a,2.a.2,DC_TOF_AGRL,India,0,696.9009,Float,T,A,T,NA,P,Total,USD
+2,2.a,2.a.2,DC_TOF_AGRL,India,0,351.668234,Float,T,A,T,NA,P,Total,USD
+2,2.a,2.a.2,DC_TOF_AGRL,India,0,515.665977,Float,T,A,T,NA,P,Total,USD
+2,2.a,2.a.2,DC_TOF_AGRL,India,0,373.02262,Float,T,A,T,NA,P,Total,USD
+2,2.a,2.a.2,DC_TOF_AGRL,India,0,221.893171,Float,T,A,T,NA,P,Total,USD
+2,2.a,2.a.2,DC_TOF_AGRL,India,0,911.496482,Float,T,A,T,NA,P,Total,USD
+2,2.a,2.a.2,DC_TOF_AGRL,India,0,516.603595,Float,T,A,T,NA,P,Total,USD
+15,15.4,15.4.2,ER_MTN_TOTL,India,0,436.9223250976562,Float,T,A,T,NA,P,Total,Km^2
+6,6.b,6.b.1,ER_WAT_PROCEDY,India,0,1,Float,T,A,T,C,P,Total,NA
+8,8.1,8.1.1,NY_GDP_PCAP,India,0,7.57472970720604,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,India,0,4.26917944926345,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,India,0,5.31287023870590,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,India,0,6.56099050143039,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,India,0,8.16345759185324,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,India,0,5.93592005149123,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,India,0,7.59391279742323,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,India,0,6.95092706890183,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,India,0,3.41005134187455,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,India,0,2.20311082412428,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,India,0,6.27044466681840,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,India,0,2.38219826560260,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,India,0,8.75496971264236,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,India,0,5.23113583410994,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,India,0,6.59330631183584,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,India,0,2.02481761566313,Float,T,A,T,CA,P,Total,Percentage
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,27.037937,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,372.870302,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,218.992894,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,372.870302,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,247.141038,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,247.141038,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,35.468947,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,218.992894,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,35.468947,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,76.810225,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,318.50959,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,318.50959,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,107.211504,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,107.211504,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,523.073307,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,65.844738,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,523.073307,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,76.810225,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,65.844738,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,289.967984,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,289.967984,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,154.979172,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,27.037937,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,154.979172,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,536.959781,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,603.456952,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,536.959781,Float,T,A,T,NA,P,Total,USD
+15; 15,15.b; 15.a,15.b.1; 15.a.1,DC_ODA_BDVL,India,0,603.456952,Float,T,A,T,NA,P,Total,USD
+2,2.2,2.2.2,SH_STA_WAST,India,0,18.4,Float,<5,A,T,CA,P,Total,Percentage
+2,2.2,2.2.2,SH_STA_WAST,India,0,20.3,Float,<5,A,T,CA,P,Total,Percentage
+2,2.2,2.2.2,SH_STA_WAST,India,0,19.9,Float,<5,A,T,CA,P,Total,Percentage
+2,2.2,2.2.2,SH_STA_WAST,India,0,15.1,Float,<5,A,T,CA,P,Total,Percentage
+2,2.2,2.2.2,SH_STA_WAST,India,0,20,Float,<5,A,T,CA,P,Total,Percentage
+2,2.2,2.2.2,SH_STA_WAST,India,0,21,Float,<5,A,T,CA,P,Total,Percentage
+2,2.2,2.2.2,SH_STA_WAST,India,0,17.1,Float,<5,A,T,CA,P,Total,Percentage
+2,2.2,2.2.2,SH_STA_WAST,India,0,20,Float,<5,A,T,CA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BD256KL2M,India,0,0.526337651197913,Float,T,A,T,NA,P,Total,Percentage
+13; 1; 11,13.1; 1.5; 11.b,13.1.2; 1.5.3; 11.b.1,SG_DSR_LEGREG,India,0,1,Float,T,A,T,C,P,Total,#
+13; 1; 11,13.1; 1.5; 11.b,13.1.2; 1.5.3; 11.b.1,SG_DSR_LEGREG,India,0,1,Float,T,A,T,C,P,Total,#
+13; 1; 11,13.1; 1.5; 11.b,13.1.2; 1.5.3; 11.b.1,SG_DSR_LEGREG,India,0,1,Float,T,A,T,C,P,Total,#
+13; 1; 11,13.1; 1.5; 11.b,13.1.2; 1.5.3; 11.b.1,SG_DSR_LEGREG,India,0,1,Float,T,A,T,C,P,Total,#
+13; 1; 11,13.1; 1.5; 11.b,13.1.2; 1.5.3; 11.b.1,SG_DSR_LEGREG,India,0,1,Float,T,A,T,C,P,Total,#
+13; 1; 11,13.1; 1.5; 11.b,13.1.2; 1.5.3; 11.b.1,SG_DSR_LEGREG,India,0,1,Float,T,A,T,C,P,Total,#
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTFSB,India,0,5.263157894736842,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTFSB,India,0,5.263157894736842,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTFSB,India,0,5.769230769230769,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTFSB,India,0,5.263157894736842,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTFSB,India,0,5.263157894736842,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTFSB,India,0,5.769230769230769,Float,T,A,T,G,P,Total,Percentage
+8,8.a,8.a.1,DC_TOF_TRDCML,India,0,3064.256114,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDCML,India,0,4700.079856,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDCML,India,0,1497.072191,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDCML,India,0,2561.941769,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDCML,India,0,1939.780583,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDCML,India,0,2954.031453,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDCML,India,0,4291.703794,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDCML,India,0,2804.829209,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDCML,India,0,2655.623368,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDCML,India,0,1522.701643,Float,T,A,T,NA,P,Total,USD
+8,8.a,8.a.1,DC_TOF_TRDCML,India,0,1365.51803,Float,T,A,T,NA,P,Total,USD
+9,9.1,9.1.2,IS_RDP_PSSGRKM,India,0,10526770,Float,T,A,T,E,P,Total,Km
+9,9.5,9.5.1,GB_XPD_RSDV,India,0,0.79,Float,T,A,T,C,P,Total,Percentage
+9,9.5,9.5.1,GB_XPD_RSDV,India,0,0.84,Float,T,A,T,C,P,Total,Percentage
+9,9.5,9.5.1,GB_XPD_RSDV,India,0,0.82,Float,T,A,T,C,P,Total,Percentage
+9,9.5,9.5.1,GB_XPD_RSDV,India,0,0.80,Float,T,A,T,C,P,Total,Percentage
+9,9.5,9.5.1,GB_XPD_RSDV,India,0,0.82,Float,T,A,T,C,P,Total,Percentage
+9,9.5,9.5.1,GB_XPD_RSDV,India,0,0.74,Float,T,A,T,C,P,Total,Percentage
+9,9.5,9.5.1,GB_XPD_RSDV,India,0,0.72,Float,T,A,T,C,P,Total,Percentage
+9,9.5,9.5.1,GB_XPD_RSDV,India,0,0.71,Float,T,A,T,C,P,Total,Percentage
+9,9.5,9.5.1,GB_XPD_RSDV,India,0,0.71,Float,T,A,T,C,P,Total,Percentage
+9,9.5,9.5.1,GB_XPD_RSDV,India,0,0.74,Float,T,A,T,C,P,Total,Percentage
+9,9.5,9.5.1,GB_XPD_RSDV,India,0,0.81,Float,T,A,T,C,P,Total,Percentage
+9,9.5,9.5.1,GB_XPD_RSDV,India,0,0.80,Float,T,A,T,C,P,Total,Percentage
+3,3.2,3.2.2,SH_DYN_NMRTN,India,0,752702,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,India,0,871304,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,India,0,695852,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,India,0,1253657,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,India,0,792589,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,India,0,1175504,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,India,0,1134014,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,India,0,946336,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,India,0,909587,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,India,0,831083,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,India,0,1016659,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,India,0,721743,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,India,0,1054134,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,India,0,981810,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,India,0,1215523,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,India,0,1091529,Float,<1m,A,T,,P,Total,#
+17,17.19,17.19.2,SG_REG_DETH75N,India,0,0,Float,T,A,T,C,P,Total,#
+10,10.1,10.1.1,SI_HEI_TOTL,India,0,3.6963,Float,T,A,T,G,P,Total,Percentage
+2,2.5,2.5.2,ER_RSK_LBREDN,India,0,7,Float,T,A,T,C,P,Total,#
+3,3.6,3.6.1,SH_STA_TRAF,India,0,16.5,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,India,0,16.3,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,India,0,16.5,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,India,0,16.3,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,India,0,16.5,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,India,0,16.4,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,India,0,16.5,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,India,0,16.2,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,India,0,16.6,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,India,0,16.6,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,India,0,16.4,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,India,0,16.6,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,India,0,16.6,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,India,0,16.3,Float,T,A,T,E,P,Total,per 100000 pop
+9,9.b,9.b.1,NV_IND_TECH,India,0,39.60613572475470,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,India,0,37.54590115043010,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,India,0,39.42254888663200,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,India,0,39.68267193959680,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,India,0,38.52591762886660,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,India,0,40.56228796534470,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,India,0,36.49573317466910,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,India,0,34.63943331663440,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,India,0,40.21241599339650,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,India,0,39.89623276488250,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,India,0,39.21139666384330,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,India,0,41.13945987384180,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,India,0,42.29982985146610,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,India,0,39.89623276411110,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,India,0,41.32952761977340,Float,T,A,T,M,P,Total,Percentage
+2,2.c,2.c.1,AG_FPA_WHEAT,India,0,1.16745417,Float,T,A,T,E,P,Total,index
+8,8.5,8.5.2,SL_TLF_UEM,India,0,11.6,Float,15-24,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,4.2,Float,15+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,2.7,Float,25+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,10.4,Float,15-24,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,3.4,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,2,Float,25+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,10.7,Float,15-24,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,3.6,Float,15+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,2.2,Float,25+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,2.6,Float,25+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,10.1,Float,15-24,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,2.7,Float,25+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,4.3,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,10.1,Float,15-24,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,2.5,Float,25+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,4.3,Float,15+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,4.3,Float,15+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,10.3,Float,15-24,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,4.5,Float,15+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,3.9,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,6.4,Float,15+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,2.8,Float,25+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,4.4,Float,15+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,10,Float,15-24,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,2.5,Float,25+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,4.1,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,9.8,Float,15-24,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,3.6,Float,25+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,5,Float,15+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,10.4,Float,15-24,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,2.1,Float,25+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,10.2,Float,15-24,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,1.8,Float,25+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,3.3,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,9.8,Float,15-24,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,2.9,Float,25+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,4.4,Float,15+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,3.6,Float,15+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,11.6,Float,15-24,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,4.9,Float,15+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,4.1,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,India,0,7.7,Float,15+,A,T,C,P,Female,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,3.446304,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,1.239572,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,1.758688,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,3.75537,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,3.003184,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,4.210693,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,3.28862,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,2.598499,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,2.192589,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,3.22837,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,3.716598,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,1.697488,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,3.395962,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,2.382753,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,3.428384,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,2.985264,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,3.76277,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,2.44138,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,2.652206,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,2.210964,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,0.987997,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,2.889543,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,3.098628,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,2.703151,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,0.729847,Float,T,A,T,NA,P,Total,Percentage
+17,17.3,17.3.2,BX_TRF_PWKR,India,0,1.196727,Float,T,A,T,NA,P,Total,Percentage
+11,11.1,11.1.1,EN_LND_SLUM,India,0,48.2225,Float,T,A,T,M,P,Total,Percentage
+11,11.1,11.1.1,EN_LND_SLUM,India,0,54.945,Float,T,A,T,M,P,Total,Percentage
+11,11.1,11.1.1,EN_LND_SLUM,India,0,34.7775,Float,T,A,T,M,P,Total,Percentage
+11,11.1,11.1.1,EN_LND_SLUM,India,0,41.5,Float,T,A,T,M,P,Total,Percentage
+11,11.1,11.1.1,EN_LND_SLUM,India,0,32.0885,Float,T,A,T,M,P,Total,Percentage
+11,11.1,11.1.1,EN_LND_SLUM,India,0,24,Float,T,A,T,M,P,Total,Percentage
+11,11.1,11.1.1,EN_LND_SLUM,India,0,29.3995,Float,T,A,T,M,P,Total,Percentage
+16,16.5,16.5.2,IC_FRM_BRIB,India,0,22.663849,Float,T,A,T,E,P,Total,Percentage
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.16,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.25,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.20,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.30,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.47,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.39,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.09,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.15,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.12,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.12,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.19,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.16,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.10,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.15,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.12,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.09,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.14,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.11,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.11,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.18,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.14,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.23,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.35,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.29,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.14,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.17,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.10,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.09,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.14,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.12,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.45,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.34,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.54,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.26,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.40,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.34,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.20,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.31,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.26,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.10,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.16,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.13,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.14,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.22,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.18,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.28,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.23,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,India,0,0.18,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+12,12.4,12.4.1,SG_HAZ_CMRSTHOLM,India,0,83.333333,Float,T,A,T,C,P,Total,Percentage
+6,6.b,6.b.1,ER_WAT_PARTICNA,India,0,0,Float,T,A,T,C,P,Total,NA
+9,9.c,9.c.1,IT_MOB_2GNTWK,India,0,83,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_2GNTWK,India,0,60.9,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_2GNTWK,India,0,30.5,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_2GNTWK,India,0,79.82,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_2GNTWK,India,0,93.46,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_2GNTWK,India,0,21.1,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_2GNTWK,India,0,70,Float,T,A,T,,P,Total,Percentage
+2,2.5,2.5.1,ER_GRF_GENEBNK,India,0,1,Float,T,A,T,C,P,Total,NA
+10,10.1,10.1.1,SI_HEI_BTN40,India,0,3.2015,Float,T,A,T,G,P,Total,Percentage
+3,3.b,3.b.2,DC_TOF_HLTHNT,India,0,222.698921,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHNT,India,0,189.634456,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHNT,India,0,331.4357,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHNT,India,0,312.138464,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHNT,India,0,242.27149,Float,T,A,T,NA,P,Total,USD
+3,3.b,3.b.2,DC_TOF_HLTHNT,India,0,270.333678,Float,T,A,T,NA,P,Total,USD
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,545,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,544,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,545,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,543,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,541,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,543,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,543,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,543,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,545,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,542,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,543,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,541,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,545,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,545,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,545,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,543,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,545,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,India,0,543,Float,T,A,T,C,P,Total,#
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.1000737885906,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.10007378859060,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.10007378859060,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.1944845671141,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.1944845671141,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.1944845671141,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.1944845671141,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,13.24511527567380,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,13.24511527567380,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,13.2451152756738,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.1000737885906,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.10007378859060,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.10007378859060,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.1944845671141,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.1944845671141,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.2185036630872,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.21850366308720,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.21850366308720,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.2185036630872,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.21850366308720,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.21850366308720,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,13.2451152756738,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,13.24511527567380,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,13.24511527567380,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.1944845671141,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.1944845671141,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.1944845671141,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.1944845671141,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.10007378859060,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.10007378859060,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.1000737885906,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.1944845671141,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_FRHWTR,India,0,15.19448456711410,Float,T,A,T,C,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTAFDB,India,0,0.248000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTAFDB,India,0,0.248000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTAFDB,India,0,0.259000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTAFDB,India,0,0.243000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTAFDB,India,0,0.259000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTAFDB,India,0,0.260000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTAFDB,India,0,0.233000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTAFDB,India,0,0.233000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTAFDB,India,0,0.243000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTAFDB,India,0,0.260000000000000,Float,T,A,T,G,P,Total,Percentage
+9,9.1,9.1.2,IS_RRS_PSSGRKM,India,0,1135718,Float,T,A,T,E,P,Total,Km
+4,4.a,4.a.1,SE_LSC_ELECT,India,0,62.786641,Float,T,A,T,C,P,Total,Percentage
+1,1.3,1.3.1,SI_COV_LMKT,India,0,3.557524,Float,T,A,T,NA,P,Total,Percentage
+1,1.3,1.3.1,SI_COV_LMKT,India,0,14.485153,Float,T,A,T,NA,P,Total,Percentage
+1,1.3,1.3.1,SI_COV_LMKT,India,0,4.439384,Float,T,A,T,NA,P,Total,Percentage
+9,9.1,9.1.2,IS_TRP_FRGHT,India,0,832258.01,Float,T,A,T,NA,P,Total,T
+1,1.3,1.3.1,SI_COV_SOCASTPQ,India,0,26.556218,Float,T,A,T,NA,P,Total,Percentage
+1,1.3,1.3.1,SI_COV_SOCASTPQ,India,0,29.069158,Float,T,A,T,NA,P,Total,Percentage
+1,1.3,1.3.1,SI_COV_SOCASTPQ,India,0,20.754399,Float,T,A,T,NA,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,India,0,16.82634730538920,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,India,0,15.46990918866310,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,India,0,16.93903271631690,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,India,0,16.56357249112090,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,India,0,16.77974322483720,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,India,0,15.65542990301330,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,India,0,17.03938031755450,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,India,0,16.74531017058800,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,India,0,16.77797665027390,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,India,0,15.45771782611180,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,India,0,15.48143710959150,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,India,0,16.41439998955970,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,India,0,15.31325912250750,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,India,0,17.03259379696930,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,India,0,16.40453074342990,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,India,0,15.71037050870640,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,India,0,16.90331395661240,Float,T,A,T,M,P,Total,Percentage
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.716206527403418,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.69890686166299,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.678322292014548,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.749880210951032,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.787182435964412,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.76708036249653,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.746060037552013,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.778923148985522,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.76138863317111,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.72609520023189,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.736677227703975,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.715068634853645,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.700714478875956,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.725303974190585,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.71440645448117,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.681119433649628,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.717225881142055,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.663824320626219,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.713219854983435,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.69095897548660,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.71060056242476,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.722749650557792,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.694641029944582,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.76983827045098,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.794452305931862,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.71835718379573,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.729499274070498,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.706458523356580,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.751442108130842,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.648805474652296,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.711978878617673,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.68323298645095,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.657384176606861,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.68730859155329,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.712467525577083,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.73398808992892,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.745219485674242,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.722720441367643,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.741252831748673,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.73015355439394,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.764447773756266,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.735817411064877,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.75037950562872,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.718620708089234,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.690073644713400,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.719576240327852,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.70693909179335,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.69470077694509,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.715065136687194,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.668025329843750,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.791182689501621,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.751028257854180,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.711406855874196,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.732731480090751,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.72164064811252,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.76472712940187,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.783876533647798,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.748390274033231,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.738720549192821,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.770497778149547,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.75373400108019,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.76840508581759,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.733427652425113,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.758694020919045,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.74642934934355,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.725669373958333,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.749412107917627,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.73843719708333,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.74204934216965,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.754179570549995,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.729405356482013,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.70260646858699,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.75838393602481,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.774754042185938,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,India,0,0.742756812178153,Float,T,A,T,E,LB,Total,NA
+3,3.c,3.c.1,SH_MED_NSRMWY,India,0,1.380,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_NSRMWY,India,0,1.185,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_NSRMWY,India,0,1.248,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_NSRMWY,India,0,1.169,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_NSRMWY,India,0,1.263,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_NSRMWY,India,0,1.294,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_NSRMWY,India,0,1.703,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_NSRMWY,India,0,1.402,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_NSRMWY,India,0,2.049,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_NSRMWY,India,0,1.539,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_NSRMWY,India,0,1.333,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.9,3.9.1,SH_AAP_MORT,India,0,49.15659,Float,T,A,T,E,P,Total,per 100000 pop
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,India,0,0.518134715025907,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,India,0,0.523560209424084,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,India,0,0.518134715025907,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,India,0,0.523560209424084,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,India,0,0.529100529100529,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,India,0,0.529100529100529,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,India,0,0.518134715025907,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,India,0,0.520833333333333,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,India,0,0.518134715025907,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,India,0,0.520833333333333,Float,T,A,T,G,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANFPC,India,0,228.2725737001560,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,India,0,124.3146878108830,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,India,0,211.9748670664890,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,India,0,193.1929355682680,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,India,0,241.2078782471720,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,India,0,119.2044637308960,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,India,0,252.8860954643950,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,India,0,263.3463266755370,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,India,0,278.3737946748270,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,India,0,121.7973091950940,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,India,0,141.2888075286210,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,India,0,187.6081037793090,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,India,0,131.2499505918410,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,India,0,319.3558624595240,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,India,0,173.3300118416130,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,India,0,154.2894921167980,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,India,0,298.0379930744390,Float,T,A,T,M,P,Total,USD
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,45,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,49,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,65,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,45,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,48,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,49,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,65,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,48,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,60,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,64,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,45,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,49,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,62,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,60,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,59,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,48,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,59,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,India,0,49,Float,T,A,T,C,P,Female,#
+6,6.b,6.b.1,ER_WAT_PROCEDNA,India,0,0,Float,T,A,T,C,P,Total,NA
+17,17.19,17.19.1,SG_STT_CAPTY,India,0,924374.0,Float,T,A,T,G,P,Total,USD
+17,17.19,17.19.1,SG_STT_CAPTY,India,0,588848.2,Float,T,A,T,G,P,Total,USD
+17,17.19,17.19.1,SG_STT_CAPTY,India,0,4695028.3,Float,T,A,T,G,P,Total,USD
+17,17.19,17.19.1,SG_STT_CAPTY,India,0,1171518.6,Float,T,A,T,G,P,Total,USD
+17,17.19,17.19.1,SG_STT_CAPTY,India,0,107433505.5,Float,T,A,T,G,P,Total,USD
+17,17.19,17.19.1,SG_STT_CAPTY,India,0,1717187.1,Float,T,A,T,G,P,Total,USD
+17,17.19,17.19.1,SG_STT_CAPTY,India,0,5580070.1,Float,T,A,T,G,P,Total,USD
+17,17.19,17.19.1,SG_STT_CAPTY,India,0,5235993.9,Float,T,A,T,G,P,Total,USD
+17,17.19,17.19.1,SG_STT_CAPTY,India,0,4328326.0,Float,T,A,T,G,P,Total,USD
+6,6.5,6.5.1,ER_H2O_INTGSDN,India,0,0,Float,T,A,T,NA,P,Total,NA
+3,3.c,3.c.1,SH_MED_PHYSNS,India,0,0.557,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHYSNS,India,0,0.615,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHYSNS,India,0,0.564,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHYSNS,India,0,0.538,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHYSNS,India,0,0.527,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHYSNS,India,0,0.573,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHYSNS,India,0,0.577,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHYSNS,India,0,0.699,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHYSNS,India,0,0.739,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHYSNS,India,0,0.725,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHYSNS,India,0,0.624,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHYSNS,India,0,0.663,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHYSNS,India,0,0.587,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.c,3.c.1,SH_MED_PHYSNS,India,0,0.600,Float,T,A,T,C,P,Total,per 1000 pop
+6,6.b,6.b.1,ER_SAN_PARTICM,India,0,1,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PARTICM,India,0,1,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PARTICM,India,0,0,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PARTICM,India,0,1,Float,T,A,R,C,P,Total,NA
+14,14.5,14.5.1,ER_MRN_MARIN,India,0,0.170692,Float,T,A,T,NA,P,Total,Percentage
+3,3.4,3.4.1,SH_DTH_DIABTS,India,0,62.307,Float,30-70,A,T,CA,P,Female,#
+3,3.4,3.4.1,SH_DTH_DIABTS,India,0,64.566,Float,30-70,A,T,CA,P,Male,#
+3,3.4,3.4.1,SH_DTH_DIABTS,India,0,126.873,Float,30-70,A,T,CA,P,Total,#
+3,3.4,3.4.1,SH_DTH_DIABTS,India,0,51.06,Float,30-70,A,T,CA,P,Female,#
+3,3.4,3.4.1,SH_DTH_DIABTS,India,0,52.316,Float,30-70,A,T,CA,P,Male,#
+3,3.4,3.4.1,SH_DTH_DIABTS,India,0,103.376,Float,30-70,A,T,CA,P,Total,#
+3,3.4,3.4.1,SH_DTH_DIABTS,India,0,83.971,Float,30-70,A,T,CA,P,Total,#
+3,3.4,3.4.1,SH_DTH_DIABTS,India,0,44.105,Float,30-70,A,T,CA,P,Male,#
+3,3.4,3.4.1,SH_DTH_DIABTS,India,0,39.867,Float,30-70,A,T,CA,P,Female,#
+3,3.4,3.4.1,SH_DTH_DIABTS,India,0,68.821,Float,30-70,A,T,CA,P,Total,#
+3,3.4,3.4.1,SH_DTH_DIABTS,India,0,30.27,Float,30-70,A,T,CA,P,Female,#
+3,3.4,3.4.1,SH_DTH_DIABTS,India,0,38.551,Float,30-70,A,T,CA,P,Male,#
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,8.48668,Float,T,A,U,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,41.56487,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,57.39432,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,17.06017,Float,T,A,U,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,55.45683,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,71.57688,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,23.49029,Float,T,A,U,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,65.96677,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,82.2138,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,21.34692,Float,T,A,U,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,62.47835,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,78.66816,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,12.77343,Float,T,A,U,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,48.49102,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,64.4856,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,7.41499,Float,T,A,U,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,39.83531,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,55.6215,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,22.41861,Float,T,A,U,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,64.24229,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,80.44098,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,14.9168,Float,T,A,U,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,51.96624,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,68.03124,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,11.70174,Float,T,A,U,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,46.75856,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,62.71278,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,10.63005,Float,T,A,U,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,45.02643,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,60.93996,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,18.13186,Float,T,A,U,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,57.20676,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,73.3497,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,19.20355,Float,T,A,U,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,58.96026,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,75.12252,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,9.55837,Float,T,A,U,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,43.29531,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,59.16714,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,20.27523,Float,T,A,U,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,60.71784,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,76.89534,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,15.98849,Float,T,A,U,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,53.70997,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,69.80406,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,66.25842,Float,T,A,R,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,13.84511,Float,T,A,U,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,India,0,50.22676,Float,T,A,T,E,P,Total,Percentage
+2,2.5,2.5.1,ER_GRF_ANIMRCNT,India,0,8.235294,Float,T,A,T,C,P,Total,Percentage
+5,5.2,5.2.1,VC_VAW_MARR,India,0,13.3,Float,45-49,A,T,C,P,Total,Percentage
+5,5.2,5.2.1,VC_VAW_MARR,India,0,18.4,Float,40-44,A,T,C,P,Total,Percentage
+5,5.2,5.2.1,VC_VAW_MARR,India,0,20.9,Float,35-39,A,T,C,P,Total,Percentage
+5,5.2,5.2.1,VC_VAW_MARR,India,0,24.3,Float,30-34,A,T,C,P,Total,Percentage
+5,5.2,5.2.1,VC_VAW_MARR,India,0,26.5,Float,25-29,A,T,C,P,Total,Percentage
+5,5.2,5.2.1,VC_VAW_MARR,India,0,26.8,Float,20-24,A,T,C,P,Total,Percentage
+5,5.2,5.2.1,VC_VAW_MARR,India,0,23.000000000000000,Float,15-49,A,T,C,P,Total,Percentage
+5,5.2,5.2.1,VC_VAW_MARR,India,0,26.9,Float,15-19,A,T,C,P,Total,Percentage
+16,16.1,16.1.1,VC_IHR_PSRCN,India,0,43741.000000000,Float,T,A,T,C,P,Total,#
+16,16.1,16.1.1,VC_IHR_PSRCN,India,0,41623.000000000,Float,T,A,T,C,P,Total,#
+16,16.1,16.1.1,VC_IHR_PSRCN,India,0,43355.000000000,Float,T,A,T,C,P,Total,#
+16,16.1,16.1.1,VC_IHR_PSRCN,India,0,41984.000000000,Float,T,A,T,C,P,Total,#
+16,16.1,16.1.1,VC_IHR_PSRCN,India,0,42299.000000000,Float,T,A,T,C,P,Total,#
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,15.2,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,19.2,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,15.3,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,20.5,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,18.9,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,20.5,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,16.2,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,17.2,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,17.5,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,22.1,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,17.3,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,21.6,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,15.6,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,17,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,23.7,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,15.7,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,20.9,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,18,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,15.4,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,22.2,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,21.2,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,15.4,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,19.9,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,22.4,Float,T,A,T,E,P,Total,Percentage
+2,2.1,2.1.1,SN_ITK_DEFC,India,0,18.6,Float,T,A,T,E,P,Total,Percentage
+2,2.5,2.5.1,ER_GRF_PLNTSTOR,India,0,378841,Float,T,A,T,E,P,Total,#
+2,2.5,2.5.1,ER_GRF_PLNTSTOR,India,0,395001,Float,T,A,T,C,P,Total,#
+2,2.5,2.5.1,ER_GRF_PLNTSTOR,India,0,191449,Float,T,A,T,E,P,Total,#
+2,2.5,2.5.1,ER_GRF_PLNTSTOR,India,0,241668,Float,T,A,T,E,P,Total,#
+2,2.5,2.5.1,ER_GRF_PLNTSTOR,India,0,338637,Float,T,A,T,E,P,Total,#
+2,2.5,2.5.1,ER_GRF_PLNTSTOR,India,0,369412,Float,T,A,T,E,P,Total,#
+2,2.5,2.5.1,ER_GRF_PLNTSTOR,India,0,382216,Float,T,A,T,C,P,Total,#
+17,17.6,17.6.2,IT_NET_BD10MBN,India,0,1381917,Float,T,A,T,NA,P,Total,#
+2,2.5,2.5.2,ER_UNK_LBREDN,India,0,216,Float,T,A,T,C,P,Total,#
+16,16.3,16.3.2,VC_PRS_UNSEC,India,0,67.26135482833674,Float,T,A,T,C,P,Total,Percentage
+16,16.3,16.3.2,VC_PRS_UNSEC,India,0,67.90044588666066,Float,T,A,T,C,P,Total,Percentage
+6,6.b,6.b.1,ER_SAN_PARTICH,India,0,0,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PARTICH,India,0,0,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PARTICH,India,0,0,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PARTICH,India,0,0,Float,T,A,U,C,P,Total,NA
+3,3.4,3.4.1,SH_DTH_CANCER,India,0,277.82,Float,30-70,A,T,CA,P,Male,#
+3,3.4,3.4.1,SH_DTH_CANCER,India,0,550.258,Float,30-70,A,T,CA,P,Total,#
+3,3.4,3.4.1,SH_DTH_CANCER,India,0,272.438,Float,30-70,A,T,CA,P,Female,#
+3,3.4,3.4.1,SH_DTH_CANCER,India,0,248.57,Float,30-70,A,T,CA,P,Female,#
+3,3.4,3.4.1,SH_DTH_CANCER,India,0,238.283,Float,30-70,A,T,CA,P,Male,#
+3,3.4,3.4.1,SH_DTH_CANCER,India,0,486.853,Float,30-70,A,T,CA,P,Total,#
+3,3.4,3.4.1,SH_DTH_CANCER,India,0,231.789,Float,30-70,A,T,CA,P,Female,#
+3,3.4,3.4.1,SH_DTH_CANCER,India,0,203.396,Float,30-70,A,T,CA,P,Male,#
+3,3.4,3.4.1,SH_DTH_CANCER,India,0,435.185,Float,30-70,A,T,CA,P,Total,#
+3,3.4,3.4.1,SH_DTH_CANCER,India,0,209.04,Float,30-70,A,T,CA,P,Female,#
+3,3.4,3.4.1,SH_DTH_CANCER,India,0,175.248,Float,30-70,A,T,CA,P,Male,#
+3,3.4,3.4.1,SH_DTH_CANCER,India,0,384.289,Float,30-70,A,T,CA,P,Total,#
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRAFDB,India,0,1.298701298701299,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRAFDB,India,0,1.298701298701299,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRAFDB,India,0,1.298701298701299,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRAFDB,India,0,1.298701298701299,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRAFDB,India,0,1.265822784810127,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRAFDB,India,0,1.298701298701299,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRAFDB,India,0,1.250000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRAFDB,India,0,1.298701298701299,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRAFDB,India,0,1.265822784810127,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRAFDB,India,0,1.250000000000000,Float,T,A,T,G,P,Total,Percentage
+16,16.9,16.9.1,SG_REG_BRTH,India,0,71.9000000000000,Float,<5,A,T,C,P,Total,Percentage
+1,1.3,1.3.1,SI_COV_LMKTPQ,India,0,1.500488,Float,T,A,T,NA,P,Total,Percentage
+1,1.3,1.3.1,SI_COV_LMKTPQ,India,0,5.510413,Float,T,A,T,NA,P,Total,Percentage
+1,1.3,1.3.1,SI_COV_LMKTPQ,India,0,1.962462,Float,T,A,T,NA,P,Total,Percentage
+9,9.1,9.1.2,IS_TRP_PSSGR,India,0,98927860,Float,T,A,T,NA,P,Total,#
+3,3.9,3.9.3,SH_STA_POISN,India,0,2.23,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,India,0,2.53,Float,T,A,T,CA,P,Male,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,India,0,1.91,Float,T,A,T,CA,P,Female,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,India,0,3.01,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,India,0,3.49,Float,T,A,T,CA,P,Male,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,India,0,2.48,Float,T,A,T,CA,P,Female,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,India,0,1.88,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,India,0,2.1400001,Float,T,A,T,CA,P,Male,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,India,0,1.6,Float,T,A,T,CA,P,Female,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,India,0,2.95,Float,T,A,T,CA,P,Female,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,India,0,4.4899998,Float,T,A,T,CA,P,Male,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,India,0,3.75,Float,T,A,T,CA,P,Total,per 100000 pop
+2,2.5,2.5.1,ER_GRF_ANIMSTORN,India,0,41,Float,T,A,T,C,P,Total,#
+16,16.10,16.10.1,VC_VAW_MTUHRA,India,0,6,Float,T,A,T,G,P,Total,#
+16,16.10,16.10.1,VC_VAW_MTUHRA,India,0,0,Float,T,A,T,G,P,Female,#
+16,16.10,16.10.1,VC_VAW_MTUHRA,India,0,6,Float,T,A,T,G,P,Male,#
+16,16.10,16.10.1,VC_VAW_MTUHRA,India,0,0,Float,T,A,T,G,P,Female,#
+16,16.10,16.10.1,VC_VAW_MTUHRA,India,0,2,Float,T,A,T,G,P,Male,#
+16,16.10,16.10.1,VC_VAW_MTUHRA,India,0,2,Float,T,A,T,G,P,Total,#
+15,15.1,15.1.1,AG_LND_FRSTN,India,0,63939.000,Float,T,A,T,NA,P,Total,h
+15,15.1,15.1.1,AG_LND_FRSTN,India,0,69790.000,Float,T,A,T,NA,P,Total,h
+15,15.1,15.1.1,AG_LND_FRSTN,India,0,65390.000,Float,T,A,T,NA,P,Total,h
+15,15.1,15.1.1,AG_LND_FRSTN,India,0,70682.000,Float,T,A,T,NA,P,Total,h
+15,15.1,15.1.1,AG_LND_FRSTN,India,0,67709.000,Float,T,A,T,NA,P,Total,h
+9,9.1,9.1.2,IS_TRP_MAILTKM,India,0,58470430,Float,T,A,T,NA,P,Total,TKm
+2,2.5,2.5.2,ER_RSK_LBRED,India,0,3.1390134529147984,Float,T,A,T,C,P,Total,Percentage
+6,6.b,6.b.1,ER_H2O_PARTICH,India,0,0,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PARTICH,India,0,0,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PARTICH,India,0,0,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_H2O_PARTICH,India,0,0,Float,T,A,R,C,P,Total,NA
+3,3.1,3.1.1,SH_STA_MORT,India,0,453,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,384,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,537,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,462,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,341,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,139,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,217,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,174,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,395,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,556,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,445,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,685,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,181,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,222,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,147,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,273,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,367,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,316,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,307,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,414,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,354,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,374,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,437,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,324,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,658,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,538,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,437,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,584,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,407,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,488,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,634,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,427,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,521,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,488,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,357,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,414,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,240,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,324,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,280,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,214,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,292,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,250,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,192,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,266,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,225,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,173,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,244,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,206,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,608,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,418,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,504,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,471,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,396,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,560,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,164,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,197,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,235,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,189,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,156,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,228,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,237,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,278,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,202,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,391,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,290,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,335,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,346,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,255,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,298,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,265,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,226,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,255,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,183,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,215,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,307,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,434,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,372,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,India,0,511,Float,T,A,T,E,UB,Total,per 100000 birth
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRADB,India,0,1.562500000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRADB,India,0,1.562500000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRADB,India,0,1.694915254237288,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRADB,India,0,1.694915254237288,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRADB,India,0,1.492537313432836,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRADB,India,0,1.492537313432836,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRADB,India,0,1.492537313432836,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRADB,India,0,1.492537313432836,Float,T,A,T,G,P,Total,Percentage
+17,17.19,17.19.2,SG_REG_BRTH90N,India,0,0,Float,T,A,T,NA,P,Total,#
+17,17.9,17.9.1,DC_FTA_TOTAL,India,0,354.032241,Float,T,A,T,NA,P,Total,USD
+17,17.9,17.9.1,DC_FTA_TOTAL,India,0,447.249987,Float,T,A,T,NA,P,Total,USD
+17,17.9,17.9.1,DC_FTA_TOTAL,India,0,430.47593,Float,T,A,T,NA,P,Total,USD
+17,17.9,17.9.1,DC_FTA_TOTAL,India,0,347.753317,Float,T,A,T,NA,P,Total,USD
+17,17.9,17.9.1,DC_FTA_TOTAL,India,0,414.02894,Float,T,A,T,NA,P,Total,USD
+17,17.9,17.9.1,DC_FTA_TOTAL,India,0,706.973885,Float,T,A,T,NA,P,Total,USD
+17,17.9,17.9.1,DC_FTA_TOTAL,India,0,376.643044,Float,T,A,T,NA,P,Total,USD
+17,17.9,17.9.1,DC_FTA_TOTAL,India,0,374.369033,Float,T,A,T,NA,P,Total,USD
+17,17.9,17.9.1,DC_FTA_TOTAL,India,0,707.921864,Float,T,A,T,NA,P,Total,USD
+17,17.9,17.9.1,DC_FTA_TOTAL,India,0,577.869189,Float,T,A,T,NA,P,Total,USD
+17,17.9,17.9.1,DC_FTA_TOTAL,India,0,513.784514,Float,T,A,T,NA,P,Total,USD
+17,17.9,17.9.1,DC_FTA_TOTAL,India,0,470.675176,Float,T,A,T,NA,P,Total,USD
+17,17.9,17.9.1,DC_FTA_TOTAL,India,0,479.863805,Float,T,A,T,NA,P,Total,USD
+17,17.9,17.9.1,DC_FTA_TOTAL,India,0,1582.972784,Float,T,A,T,NA,P,Total,USD
+17,17.9,17.9.1,DC_FTA_TOTAL,India,0,551.215872,Float,T,A,T,NA,P,Total,USD
+17,17.9,17.9.1,DC_FTA_TOTAL,India,0,367.87103,Float,T,A,T,NA,P,Total,USD
+17,17.6,17.6.2,IT_NET_BD2L10MBN,India,0,8493949,Float,T,A,T,NA,P,Total,#
+3,3.1,3.1.2,SH_STA_BRTC,India,0,42.3,Float,T,A,T,C,P,Total,Percentage
+3,3.1,3.1.2,SH_STA_BRTC,India,0,46.6,Float,T,A,T,C,P,Total,Percentage
+3,3.1,3.1.2,SH_STA_BRTC,India,0,42.5,Float,T,A,T,C,P,Total,Percentage
+3,3.1,3.1.2,SH_STA_BRTC,India,0,52.3,Float,T,A,T,C,P,Total,Percentage
+3,3.1,3.1.2,SH_STA_BRTC,India,0,81.4,Float,T,A,T,C,P,Total,Percentage
+3,3.1,3.1.2,SH_STA_BRTC,India,0,34.2,Float,T,A,T,C,P,Total,Percentage
+9,9.1,9.1.2,IS_TRP_FRGHTKM,India,0,1833847614,Float,T,A,T,NA,P,Total,TKm
+11,11.6,11.6.2,EN_ATM_PM25,India,0,65.72453321886840,Float,T,A,U,E,P,Total,mgr/m^3
+11,11.6,11.6.2,EN_ATM_PM25,India,0,62.39043115583893,Float,T,A,T,E,P,Total,mgr/m^3
+17,17.8,17.8.1,IT_USE_ii99,India,0,1.6864899706363,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,India,0,2.3880749999577,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,India,0,1.5378755817508,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,India,0,12.5800609138955,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,India,0,15.1000000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,India,0,3.9500000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,India,0,0.5275324499309,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,India,0,1.9761364919056,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,India,0,5.1200000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,India,0,2.8054998653425,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,India,0,21.0000000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,India,0,7.5000000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,India,0,10.0700000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,India,0,0.6601463770099,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,India,0,4.3800000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,India,0,26.0000000000000,Float,T,A,T,,P,Total,Percentage
+3,3.9,3.9.1,SH_AAP_ASMORT,India,0,68.13269,Float,T,A,T,E,P,Total,per 100000 pop
+9,9.4,9.4.1,EN_ATM_CO2,India,0,1264.780,Float,T,A,T,C,P,Total,T
+9,9.4,9.4.1,EN_ATM_CO2,India,0,1345.470,Float,T,A,T,C,P,Total,T
+9,9.4,9.4.1,EN_ATM_CO2,India,0,1673.840,Float,T,A,T,C,P,Total,T
+9,9.4,9.4.1,EN_ATM_CO2,India,0,935.560,Float,T,A,T,C,P,Total,T
+9,9.4,9.4.1,EN_ATM_CO2,India,0,890.440,Float,T,A,T,C,P,Total,T
+9,9.4,9.4.1,EN_ATM_CO2,India,0,1852.460,Float,T,A,T,C,P,Total,T
+9,9.4,9.4.1,EN_ATM_CO2,India,0,1028.270,Float,T,A,T,C,P,Total,T
+9,9.4,9.4.1,EN_ATM_CO2,India,0,953.860,Float,T,A,T,C,P,Total,T
+9,9.4,9.4.1,EN_ATM_CO2,India,0,2019.670,Float,T,A,T,C,P,Total,T
+9,9.4,9.4.1,EN_ATM_CO2,India,0,1150.720,Float,T,A,T,C,P,Total,T
+9,9.4,9.4.1,EN_ATM_CO2,India,0,905.220,Float,T,A,T,C,P,Total,T
+9,9.4,9.4.1,EN_ATM_CO2,India,0,1594.260,Float,T,A,T,C,P,Total,T
+9,9.4,9.4.1,EN_ATM_CO2,India,0,1513.070,Float,T,A,T,C,P,Total,T
+9,9.4,9.4.1,EN_ATM_CO2,India,0,1079.580,Float,T,A,T,C,P,Total,T
+9,9.4,9.4.1,EN_ATM_CO2,India,0,1790.760,Float,T,A,T,C,P,Total,T
+3,3.d,3.d.1,SH_IHR_CAPPRD,India,0,98.2,Float,T,A,T,NA,P,Total,index
+6,6.b,6.b.1,ER_HYG_PARTICL,India,0,0,Float,T,A,T,C,P,Total,NA
+6,6.b,6.b.1,ER_HYG_PARTICL,India,0,0,Float,T,A,T,C,P,Total,NA
+7,7.1,7.1.2,EG_EGY_CLEAN,India,0,34.160423,Float,T,A,T,E,P,Total,Percentage
+1,1.2,1.2.1,SI_POV_NAHC,India,0,41.8,Float,T,A,R,CA,P,Total,Percentage
+1,1.2,1.2.1,SI_POV_NAHC,India,0,37.2,Float,T,A,T,CA,P,Total,Percentage
+1,1.2,1.2.1,SI_POV_NAHC,India,0,25.7,Float,T,A,U,CA,P,Total,Percentage
+1,1.2,1.2.1,SI_POV_NAHC,India,0,31.8,Float,T,A,U,CA,P,Total,Percentage
+1,1.2,1.2.1,SI_POV_NAHC,India,0,45.3,Float,T,A,T,CA,P,Total,Percentage
+1,1.2,1.2.1,SI_POV_NAHC,India,0,50.1,Float,T,A,R,CA,P,Total,Percentage
+1,1.2,1.2.1,SI_POV_NAHC,India,0,20.9,Float,T,A,U,CA,P,Total,Percentage
+1,1.2,1.2.1,SI_POV_NAHC,India,0,29.8,Float,T,A,T,CA,P,Total,Percentage
+1,1.2,1.2.1,SI_POV_NAHC,India,0,33.8,Float,T,A,R,CA,P,Total,Percentage
+1,1.2,1.2.1,SI_POV_NAHC,India,0,21.9,Float,T,A,T,CA,P,Total,Percentage
+1,1.2,1.2.1,SI_POV_NAHC,India,0,13.7,Float,T,A,U,CA,P,Total,Percentage
+1,1.2,1.2.1,SI_POV_NAHC,India,0,25.7,Float,T,A,R,CA,P,Total,Percentage
+11,11.5,11.5.2,VC_DSR_EXVAL,India,0,5769370,Float,T,A,T,E,P,Total,USD
+3,3.2,3.2.1,SH_DYN_IMRTN,India,0,1828921,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,India,0,1708183,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,India,0,946304,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,India,0,1225179,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,India,0,1404933,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,India,0,1647050,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,India,0,1036927,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,India,0,1769941,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,India,0,1523808,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,India,0,1345948,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,India,0,1584440,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,India,0,985575,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,India,0,1465841,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,India,0,1096146,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,India,0,1159876,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,India,0,1287943,Float,<1,A,T,,P,Total,#
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,India,0,0.518134715025907,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,India,0,0.523560209424084,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,India,0,0.518134715025907,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,India,0,0.523560209424084,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,India,0,0.529100529100529,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,India,0,0.529100529100529,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,India,0,0.518134715025907,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,India,0,0.520833333333333,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,India,0,0.518134715025907,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,India,0,0.520833333333333,Float,T,A,T,G,P,Total,Percentage
+16,16.1,16.1.1,VC_IHR_PSRC,India,0,3.506444336211036,Float,T,A,T,C,P,Total,per 100000 pop
+16,16.1,16.1.1,VC_IHR_PSRC,India,0,3.213407840492633,Float,T,A,T,C,P,Total,per 100000 pop
+16,16.1,16.1.1,VC_IHR_PSRC,India,0,3.431098092440120,Float,T,A,T,C,P,Total,per 100000 pop
+16,16.1,16.1.1,VC_IHR_PSRC,India,0,3.281284638316923,Float,T,A,T,C,P,Total,per 100000 pop
+16,16.1,16.1.1,VC_IHR_PSRC,India,0,3.436192727248173,Float,T,A,T,C,P,Total,per 100000 pop
+17,17.4,17.4.1,DT_TDS_DECT,India,0,3.04097713133,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,25.41184345122,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,3.22696269589,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,24.54037447989,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,2.54630470841,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,9.68672354139,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,15.37850952540,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,4.67088755806,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,3.08598054748,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,22.49060688425,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,15.58986895585,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,4.08676517228,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,16.09367757718,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,2.42993222054,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,25.43842946689,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,26.76184822611,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,12.78735970128,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,27.16493911437,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,1.76108751803,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,29.72217174571,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,30.54460157287,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,1.67074257737,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,1.74480785061,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,25.19740772021,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,7.72063393653,Float,T,A,T,NA,P,Total,Percentage
+17,17.4,17.4.1,DT_TDS_DECT,India,0,20.43703737650,Float,T,A,T,NA,P,Total,Percentage
+1,1.3,1.3.1,SI_COV_WKINJRY,India,0,7.900000000000000,Float,T,A,T,E,P,Total,Percentage
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,2696999936,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,4295000064,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,2789799936,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,3772999936,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,2789799936,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,3772999936,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,3143000064,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,2696999936,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,3143000064,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,3865999872,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,2928999936,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,3865999872,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,2681499904,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,2681499904,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,2573499904,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,4295000064,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,2573499904,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,4103000064,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,2928999936,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,3371000064,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,3371000064,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,India,0,4103000064,Float,T,A,T,C,P,Total,T
+9,9.1,9.1.2,IS_RRS_FRGHTKM,India,0,730185,Float,T,A,T,E,P,Total,TKm
+3,3.2,3.2.1,SH_DYN_MORTN,India,0,2513120,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,India,0,2328088,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,India,0,1200998,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,India,0,1595122,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,India,0,1414819,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,India,0,1863783,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,India,0,2233293,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,India,0,1333577,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,India,0,2421920,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,India,0,2044482,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,India,0,1775492,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,India,0,2136392,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,India,0,1260762,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,India,0,1953399,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,India,0,1685035,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,India,0,1505869,Float,<5,A,T,,P,Total,#
+6,6.b,6.b.1,ER_SAN_PROCEDNA,India,0,0,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PROCEDNA,India,0,0,Float,T,A,R,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PROCEDNA,India,0,1,Float,T,A,U,C,P,Total,NA
+6,6.b,6.b.1,ER_SAN_PROCEDNA,India,0,0,Float,T,A,R,C,P,Total,NA
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,India,0,3.387821994020074,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,India,0,3.823228000031288,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,India,0,3.387821994020074,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,India,0,3.823228000031288,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,India,0,3.398177132356984,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,India,0,3.398177132356984,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,India,0,3.823228000031288,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,India,0,3.378696225427513,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,India,0,3.823228000031288,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,India,0,3.378696225427513,Float,T,A,T,G,P,Total,Percentage
+5,5.3,5.3.1,SP_DYN_MRBF15,India,0,18.2,Float,20-24,A,T,C,P,Female,Percentage
+8,8.6,8.6.1,SL_TLF_NEET,India,0,3.49,Float,15-24,A,T,C,P,Male,Percentage
+8,8.6,8.6.1,SL_TLF_NEET,India,0,53.89,Float,15-24,A,T,C,P,Female,Percentage
+8,8.6,8.6.1,SL_TLF_NEET,India,0,27.18,Float,15-24,A,T,C,P,Total,Percentage
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,4.37,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,3.51,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,4.02,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,3.83,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,4.02,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,3.83,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,3.83,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,4.37,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,3.83,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,3.78,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,3.9,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,3.78,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,4.19,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,4.19,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,4.39,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,3.51,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,4.39,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,3.7,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,3.9,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,3.76,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,3.76,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,India,0,3.7,Float,T,A,T,C,P,Total,Kg
+6,6.5,6.5.1,ER_H2O_INTGNAN,India,0,0,Float,T,A,T,NA,P,Total,NA
+6,6.a,6.a.1,DC_TOF_WASHL,India,0,350.648487,Float,T,A,T,NA,P,Total,USD
+6,6.a,6.a.1,DC_TOF_WASHL,India,0,298.845154,Float,T,A,T,NA,P,Total,USD
+6,6.a,6.a.1,DC_TOF_WASHL,India,0,501.781904,Float,T,A,T,NA,P,Total,USD
+6,6.a,6.a.1,DC_TOF_WASHL,India,0,475.719169,Float,T,A,T,NA,P,Total,USD
+6,6.a,6.a.1,DC_TOF_WASHL,India,0,195.073357,Float,T,A,T,NA,P,Total,USD
+6,6.a,6.a.1,DC_TOF_WASHL,India,0,463.559632,Float,T,A,T,NA,P,Total,USD
+6,6.a,6.a.1,DC_TOF_WASHL,India,0,197.793075,Float,T,A,T,NA,P,Total,USD
+6,6.a,6.a.1,DC_TOF_WASHL,India,0,414.997611,Float,T,A,T,NA,P,Total,USD
+6,6.a,6.a.1,DC_TOF_WASHL,India,0,365.708523,Float,T,A,T,NA,P,Total,USD
+6,6.a,6.a.1,DC_TOF_WASHL,India,0,507.510815,Float,T,A,T,NA,P,Total,USD
+6,6.a,6.a.1,DC_TOF_WASHL,India,0,503.068983,Float,T,A,T,NA,P,Total,USD
+6,6.a,6.a.1,DC_TOF_WASHL,India,0,301.685405,Float,T,A,T,NA,P,Total,USD
+6,6.a,6.a.1,DC_TOF_WASHL,India,0,462.553975,Float,T,A,T,NA,P,Total,USD
+6,6.a,6.a.1,DC_TOF_WASHL,India,0,237.656985,Float,T,A,T,NA,P,Total,USD
+6,6.a,6.a.1,DC_TOF_WASHL,India,0,395.444073,Float,T,A,T,NA,P,Total,USD
+6,6.a,6.a.1,DC_TOF_WASHL,India,0,252.058981,Float,T,A,T,NA,P,Total,USD
+6,6.b,6.b.1,ER_WAT_PARTICM,India,0,0,Float,T,A,T,C,P,Total,NA
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,India,0,2.782855706043452,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,India,0,3.060000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,India,0,2.782855706043452,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,India,0,3.060000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,India,0,2.798629171849314,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,India,0,2.798629171849314,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,India,0,3.050852499089634,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,India,0,2.778367162654601,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,India,0,3.050852499089634,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,India,0,2.778367162654601,Float,T,A,T,G,P,Total,Percentage
+6,6.5,6.5.1,ER_H2O_INTGUDN,India,0,0,Float,T,A,T,NA,P,Total,NA
+12,12.4,12.4.1,SG_HAZ_CMRMNTRL,India,0,100,Float,T,A,T,C,P,Total,Percentage
+15,15.6,15.6.1,ER_CBD_NAGOYA,India,0,1,Float,T,A,T,NA,P,Total,NA
+3,3.3,3.3.2,SH_TBS_INCD,India,0,279,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,456,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,144,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,139,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,439,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,268,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,282,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,463,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,241,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,394,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,125,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,148,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,285,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,467,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,146,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,234,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,384,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,121,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,132,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,417,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,254,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,223,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,365,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,115,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,287,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,470,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,149,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,135,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,428,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,261,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,247,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,405,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,128,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,118,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,374,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,228,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,149,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,472,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,288,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,274,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,448,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,142,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,112,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,355,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,217,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,289,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,473,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,India,0,149,Float,T,A,T,E,LB,Total,per 100000 pop
+15,15.2,15.2.1,AG_LND_FRSTBIOPHA,India,0,47.155753,Float,T,A,T,NA,P,Total,Tonnes per hectare
+15,15.2,15.2.1,AG_LND_FRSTBIOPHA,India,0,3100,Float,T,A,T,NA,P,Total,Tonnes per hectare
+6,6.b,6.b.1,ER_HYG_PARTICH,India,0,0,Float,T,A,T,C,P,Total,NA
+6,6.b,6.b.1,ER_HYG_PARTICH,India,0,0,Float,T,A,T,C,P,Total,NA
+6,6.b,6.b.1,ER_HYG_PROCEDN,India,0,0,Float,T,A,T,C,P,Total,NA
+6,6.b,6.b.1,ER_HYG_PROCEDN,India,0,0,Float,T,A,T,C,P,Total,NA
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8310574606633,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8310574606633,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8310574606633,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.3859016482207,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.3859016482207,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.3859016482207,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.4551132538492,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.4551132538492,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.4551132538492,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.7862140094274,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.7862140094274,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.7862140094274,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,21.9886497894938,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,21.9886497894938,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,21.9886497894938,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.4618827735490,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.4618827735490,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.4618827735490,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.4618827735490,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.4618827735490,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.4618827735490,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,21.9886497894938,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,21.9886497894938,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,21.9886497894938,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.3859016482207,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.3859016482207,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.3859016482207,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.4551132538492,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.4551132538492,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,26.4551132538492,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.7862166736089,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.7862166736089,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.7862166736089,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,India,0,22.8574499672299,Float,T,A,T,C,P,Total,Percentage
+2,2.2,2.2.1,SH_STA_STNT,India,0,61.9,Float,<5,A,T,CA,P,Total,Percentage
+2,2.2,2.2.1,SH_STA_STNT,India,0,54.2,Float,<5,A,T,CA,P,Total,Percentage
+2,2.2,2.2.1,SH_STA_STNT,India,0,38.4,Float,<5,A,T,CA,P,Total,Percentage
+2,2.2,2.2.1,SH_STA_STNT,India,0,47.9,Float,<5,A,T,CA,P,Total,Percentage
+2,2.2,2.2.1,SH_STA_STNT,India,0,57.7,Float,<5,A,T,CA,P,Total,Percentage
+2,2.2,2.2.1,SH_STA_STNT,India,0,62.7,Float,<5,A,T,CA,P,Total,Percentage
+2,2.2,2.2.1,SH_STA_STNT,India,0,45.9,Float,<5,A,T,CA,P,Total,Percentage
+2,2.2,2.2.1,SH_STA_STNT,India,0,38.7,Float,<5,A,T,CA,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTECOSOC,India,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+8,8.8,8.8.1,SL_EMP_INJUR,India,0,306.5,Float,15+,A,T,C,P,Total,per 100000 emp
+8,8.8,8.8.1,SL_EMP_INJUR,India,0,341.7,Float,15+,A,T,C,P,Total,per 100000 emp
+8,8.8,8.8.1,SL_EMP_INJUR,India,0,325,Float,15+,A,T,C,P,Total,per 100000 emp
+8,8.8,8.8.1,SL_EMP_INJUR,India,0,276.6,Float,15+,A,T,C,P,Total,per 100000 emp
+8,8.8,8.8.1,SL_EMP_INJUR,India,0,325,Float,15+,A,T,C,P,Total,per 100000 emp
+8,8.8,8.8.1,SL_EMP_INJUR,India,0,300,Float,15+,A,T,C,P,Total,per 100000 emp
+8,8.8,8.8.1,SL_EMP_INJUR,India,0,232.5,Float,15+,A,T,C,P,Total,per 100000 emp
+8,8.8,8.8.1,SL_EMP_INJUR,India,0,291.9,Float,15+,A,T,C,P,Total,per 100000 emp
+4,4.a,4.a.1,SE_PRM_ELECT,India,0,45,Float,T,A,T,C,P,Total,Percentage
+15,15.6,15.6.1,ER_CBD_SMTA,India,0,2739,Float,T,A,T,NA,P,Total,#
+15,15.6,15.6.1,ER_CBD_SMTA,India,0,4141,Float,T,A,T,NA,P,Total,#
+15,15.6,15.6.1,ER_CBD_SMTA,India,0,5394,Float,T,A,T,NA,P,Total,#
+15,15.6,15.6.1,ER_CBD_SMTA,India,0,5381,Float,T,A,T,NA,P,Total,#
