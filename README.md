@@ -1,5 +1,5 @@
 # SDGsDataPackage
-<<<<<<< HEAD
+
 SDGsDataPackage
 =======
 
@@ -11,4 +11,4 @@ SDGsDataPackage
 
 # Indicator : 
 > Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)
->>>>>>> master
+
